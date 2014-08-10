@@ -1,3 +1,3 @@
 woof-CE
 =======
-To host Puppy Linux CE translation files.
+Hosting for Puppy Linux CE translation files.
