@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Abiword: word processor
+Name[fr]=Abiword : traitement de textes
+Comment=Abiword: word processor
+Comment[fr]=Abiword : traitement de textes
+Icon=/usr/share/pixmaps/abiword.png
+Exec=abiword
+Terminal=false
+Type=Application
+Categories=WordProcessor
+GenericName=Abiword: word processor

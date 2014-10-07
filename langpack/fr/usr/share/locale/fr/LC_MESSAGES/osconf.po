@@ -1,0 +1,685 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osconf-bin VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-10-07 18:37+0200\n"
+"PO-Revision-Date: 2014-09-26 09:57+0100\n"
+"Last-Translator: ASRI\n"
+"Language-Team: French\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: osconf-bin.sh:20
+msgid "OSconf"
+msgstr "OSconf"
+
+#: osconf-bin.sh:21
+msgid "(configuration of operating system)"
+msgstr "(configuration du système d'exploitation)"
+
+#: osconf-bin.sh:86
+#, sh-format
+msgid ""
+"Version and authors of $AppTitle01.\n"
+"\n"
+"- Version used: $AppVersion by $AuthorActualVersion.\n"
+"- Previous versions: by $AuthorPreviousVersions.\n"
+"- Original version: by $AuthorOriginalVersion."
+msgstr ""
+"Version et auteurs de $AppTitle01.\n"
+"\n"
+"- Version utilisée : $AppVersion par $AuthorActualVersion.\n"
+"- Versions précédentes : par $AuthorPreviousVersions.\n"
+"- Version originale : par $AuthorOriginalVersion."
+
+#: osconf-bin.sh:198
+msgid "<b>MoManager</b>: translate applications."
+msgstr "<b>MoManager</b>: traduire les applications."
+
+#: osconf-bin.sh:213
+msgid "Preferences"
+msgstr "Préférences"
+
+#: osconf-bin.sh:219
+msgid "Interface: large (check) or small (uncheck)."
+msgstr "Interface : large (cocher) ou réduite (décocher)."
+
+#: osconf-bin.sh:220
+msgid "Large interface"
+msgstr "Interface large"
+
+#: osconf-bin.sh:229
+#, sh-format
+msgid "Automatically exit $AppTitle01 after selection of an application."
+msgstr ""
+"Quitter automatiquement $AppTitle01 après la sélection d'une application."
+
+#: osconf-bin.sh:230
+msgid "Auto exit"
+msgstr "Quitter automatiquement"
+
+#: osconf-bin.sh:239
+msgid "Use terminal to run applications."
+msgstr "Utiliser un terminal pour démarrer les applications."
+
+#: osconf-bin.sh:240
+msgid "Run in terminal"
+msgstr "Démarrer dans un terminal"
+
+#: osconf-bin.sh:248
+msgid "Save values."
+msgstr "Sauvegarder les valeurs."
+
+#: osconf-bin.sh:291
+#, sh-format
+msgid "active"
+msgstr "actif"
+
+#: osconf-bin.sh:293
+#, sh-format
+msgid "inactive"
+msgstr "inactive"
+
+#: osconf-bin.sh:297
+msgid "Ethernet activity"
+msgstr "Activité ethernet"
+
+#: osconf-bin.sh:300
+#, sh-format
+msgid "Currently activity of ethernet connection (eth0):"
+msgstr "Activité actuelle de la connexion ethernet (eth0) :"
+
+#: osconf-bin.sh:309
+#, sh-format
+msgid "Enable ethernet connection (eth0)."
+msgstr "Activer la connexion ethernet (eth0)."
+
+#: osconf-bin.sh:310 osconf-bin.sh:384 osconf-bin.sh:459
+#, sh-format
+msgid "Enable"
+msgstr "Activer"
+
+#: osconf-bin.sh:313 osconf-bin.sh:324 osconf-bin.sh:387 osconf-bin.sh:398
+msgid "Wait during process..."
+msgstr "Patientez pendant le processus..."
+
+#: osconf-bin.sh:320
+msgid "Disable ethernet connection (eth0)."
+msgstr "Désactiver la connexion ethernet (eth0)."
+
+#: osconf-bin.sh:321 osconf-bin.sh:395 osconf-bin.sh:468
+msgid "Disable"
+msgstr "Désactiver"
+
+#: osconf-bin.sh:341 osconf-bin.sh:415 osconf-bin.sh:486 osconf-bin.sh:549
+#, sh-format
+msgid "Quit."
+msgstr "Quitter."
+
+#: osconf-bin.sh:365
+#, sh-format
+msgid "currently active"
+msgstr "actuellement active"
+
+#: osconf-bin.sh:367
+#, sh-format
+msgid "currently inactive"
+msgstr "actuellement inactive"
+
+#: osconf-bin.sh:371
+msgid "Wifi activity"
+msgstr "Activité wifi"
+
+#: osconf-bin.sh:374
+#, sh-format
+msgid "Currently activity of Wifi connection (wlan0):"
+msgstr "Activité actuelle de la connexion wifi (wlan0) :"
+
+#: osconf-bin.sh:383
+msgid "Enable wifi connection (wlan0)."
+msgstr "Activer la connexion wifi (wlan0)."
+
+#: osconf-bin.sh:394
+msgid "Disable wifi connection (wlan0)."
+msgstr "Désactiver la connexion wifi (wlan0)."
+
+#: osconf-bin.sh:440
+#, sh-format
+msgid "enabled"
+msgstr "activé"
+
+#: osconf-bin.sh:442
+#, sh-format
+msgid "disabled"
+msgstr "désactivé"
+
+#: osconf-bin.sh:446 osconf-bin.sh:508
+msgid "Xlock activity"
+msgstr "Activité Xlock"
+
+#: osconf-bin.sh:449
+#, sh-format
+msgid "Currently status of Xlock at startup:"
+msgstr "Statut actuel de Xlock au démarrage :"
+
+#: osconf-bin.sh:458
+msgid "Enable launch of Xlock at startup."
+msgstr "Activer Xlock au démarrage."
+
+#: osconf-bin.sh:467
+msgid "Disable launch of Xlock at startup."
+msgstr "Désactiver Xlock au démarrage."
+
+#: osconf-bin.sh:518
+msgid "Configure screen locking."
+msgstr "Configurer le blocage d'écran."
+
+#: osconf-bin.sh:519
+msgid "Configure"
+msgstr "Configurer"
+
+#: osconf-bin.sh:525
+msgid "Activate screen locking."
+msgstr "Activer le blocage d'écran."
+
+#: osconf-bin.sh:526
+msgid "Activate"
+msgstr "Activer"
+
+#: osconf-bin.sh:532
+msgid "Launch screen locking at startup."
+msgstr "Activer le blocage d'écran au démarrage de la session."
+
+#: osconf-bin.sh:533
+msgid "Launch at startup"
+msgstr "Activer au démarrage"
+
+#: osconf-bin.sh:573
+#, sh-format
+msgid "Network infos"
+msgstr "Informations réseau"
+
+#: osconf-bin.sh:573
+#, sh-format
+msgid ""
+"Local IP of ethernet connection = $IPLOCALEINFO_ETH0\n"
+"Local IP of wireless connection = $IPLOCALEINFO_WLAN0\n"
+"Public IP of the computer = $IPINFO\n"
+"\n"
+"Note: the IP address appears only if connection is functional."
+msgstr ""
+"IP locale de la connexion ethernet = $IPLOCALEINFO_ETH0\n"
+"IP locale de la connexion wifi = $IPLOCALEINFO_WLAN0\n"
+"IP publique de l'ordinateur = $IPINFO\n"
+"\n"
+"Remarque : l'adresse IP address apparaît uniquement si la connexion est "
+"fonctionnelle."
+
+#: osconf-bin.sh:598 osconf-bin.sh:600
+#, sh-format
+msgid "Swap infos"
+msgstr "Infos swap"
+
+#: osconf-bin.sh:598
+#, sh-format
+msgid "Currently, no swap (virtual memory) is used."
+msgstr "Actuellement, aucun swap (mémoire virtuelle) n'est utilisé."
+
+#: osconf-bin.sh:600
+#, sh-format
+msgid ""
+"Swap (virtual memory) currently used:\n"
+"Total = $T4 MB\n"
+"Used = $T5 MB\n"
+"Free = $T6 MB"
+msgstr ""
+"Swap (mémoire virtuelle) actuellement utilisé :\n"
+"Total = $T4 Mo\n"
+"Used = $T5 Mo\n"
+"Free = $T6 Mo"
+
+#: osconf-bin.sh:630
+msgid "Application used ="
+msgstr "Application utilisée ="
+
+#: osconf-bin.sh:631
+#, sh-format
+msgid "($ANL01)"
+msgstr "($ANL01)"
+
+#: osconf-bin.sh:638
+msgid "Desktop/Display"
+msgstr "Bureau/Affichage"
+
+#: osconf-bin.sh:638
+msgid "Network"
+msgstr "Réseau"
+
+#: osconf-bin.sh:638
+msgid "Drives/Files"
+msgstr "Lecteurs/Fichiers"
+
+#: osconf-bin.sh:638
+msgid "Hardware"
+msgstr "Matériel"
+
+#: osconf-bin.sh:638
+msgid "Settings"
+msgstr "Paramètres"
+
+#: osconf-bin.sh:638
+msgid "System"
+msgstr "Système"
+
+#: osconf-bin.sh:638
+msgid "Security"
+msgstr "Sécurité"
+
+#: osconf-bin.sh:638
+msgid "Various"
+msgstr "Divers"
+
+#: osconf-bin.sh:652
+#, sh-format
+msgid ""
+"<b>Window manager settings</b>: configuration options for current WM "
+"($CURRWM)."
+msgstr ""
+"<b>Paramètres du gestionnaire de fenêtres</b> : options de configuration "
+"pour le gestionnaire actuel ($CURRWM)."
+
+#: osconf-bin.sh:661
+msgid "<b>Switch window manager</b>: access to manager installed."
+msgstr ""
+"<b>Permuter de gestionnaire de fenêtres</b> : accéder aux gestionnaires "
+"installés."
+
+#: osconf-bin.sh:670
+msgid "<b>Menu manager</b>: remove/restore main menu entries."
+msgstr ""
+"<b>Gestionnaire du menu</b> : retirer/restaurer des entrées du menu "
+"principal."
+
+#: osconf-bin.sh:679
+msgid ""
+"<b>Add shortcuts on desktop</b>: add on desktop shortcuts to applications."
+msgstr ""
+"<b>Ajouter des raccourcis sur le bureau</b> : ajouter sur le bureau des "
+"raccourcis vers des applications."
+
+#: osconf-bin.sh:688
+msgid "<b>Cursor theme</b>: select mouse cursor."
+msgstr "<b>Thème pointeur</b> : sélectionner le pointeur de la souris."
+
+#: osconf-bin.sh:697
+msgid "<b>Desktop and menu icons</b>: select desktop and menu icons."
+msgstr ""
+"<b>Icônes du bureau et du menu</b> : sélectionner un thème d'icônes pour le "
+"menu et le bureau."
+
+#: osconf-bin.sh:706
+msgid "<b>Wallpaper</b>: configure background image."
+msgstr "<b>Fond d'écran</b> : configurer l'image de fond d'écran."
+
+#: osconf-bin.sh:715
+msgid "<b>Screen saver</b>: enable/disable screensaver."
+msgstr "<b>Economiseur d'écran</b> : activer/désactiver l'économiseur d'écran."
+
+#: osconf-bin.sh:724
+msgid "<b>Desktop drive icons</b>: configure hot-plugged devices."
+msgstr ""
+"<b>Icônes des lecteurs du bureau</b> : configurer le branchement à chaud des "
+"périphériques."
+
+#: osconf-bin.sh:733
+msgid "<b>Fonts preview</b>: view available fonts."
+msgstr ""
+"<b>Aperçu des polices</b> : visualiser les polices de caractères disponibles."
+
+#: osconf-bin.sh:742
+msgid "<b>Font manager</b>: configure and install fonts."
+msgstr ""
+"<b>Gestionnaire des polices</b> : configurer et installer des polices de "
+"caractères."
+
+#: osconf-bin.sh:766
+msgid "<b>Network infos</b>: view summary for active network configuration."
+msgstr ""
+"<b>Informations réseau</b> : afficher un résumé de la configuration du "
+"réseau actif."
+
+#: osconf-bin.sh:775
+msgid ""
+"<b>Network infos</b>: view full information for active network configuration."
+msgstr ""
+"<b>Informations réseau</b> : afficher une information complète de la "
+"configuration du réseau actif."
+
+#: osconf-bin.sh:784
+msgid ""
+"<b>Internet/Network connection</b>: configure connection (dialup/cable/DSL/"
+"wired/wireless)."
+msgstr ""
+"<b>Connexion réseau/Internet</b> : configurer la connexion (dialup/câble/DSL/"
+"filaire/sans fil)."
+
+#: osconf-bin.sh:793
+msgid "<b>Ethernet connection</b>: enable/disable ethernet connection."
+msgstr "<b>Connexion ethernet</b> : activer/désactiver la connexion ethernet."
+
+#: osconf-bin.sh:802
+msgid "<b>Wifi connection</b>: enable/disable wifi connection."
+msgstr "<b>Connexion wifi</b> : activer/désactiver la connexion wifi."
+
+#: osconf-bin.sh:811
+msgid "<b>Firewall setup</b>: install/configure firewall."
+msgstr "<b>Configuration du pare-feu</b> : installer/configurer le pare-feu."
+
+#: osconf-bin.sh:820
+msgid "<b>Firewall status</b>: enable, disable firewall."
+msgstr "<b>Statut du pare-feu</b> : activer, désactiver le pare-feu."
+
+#: osconf-bin.sh:829
+msgid "<b>Network security</b>: block online advertisements."
+msgstr "<b>Sécurité du réseau</b> : bloquer les publicités en ligne."
+
+#: osconf-bin.sh:853
+msgid "<b>CD/DVD wizard</b>: select/set default optical drive."
+msgstr "<b>Assistant CD/DVD</b> : sélectionner le lecteur CD/DVD par défaut."
+
+#: osconf-bin.sh:862
+msgid "<b>Partition manager</b>: add/delete/resize drive partitions."
+msgstr ""
+"<b>Gestionnaire des partitions</b> : ajouter/supprimer/redimensionner les "
+"partitions des disques."
+
+#: osconf-bin.sh:871
+msgid "<b>Backup files</b>: backup/sync files."
+msgstr ""
+"<b>Sauvegarder des fichiers</b> : sauvegarder/synchroniser des fichiers."
+
+#: osconf-bin.sh:880
+msgid "<b>Drive space</b>: show available drives/partitions space."
+msgstr ""
+"<b>Espace disque</b> : montrer l'espace disponible des disques/partitions."
+
+#: osconf-bin.sh:889
+msgid "<b>Folder contents</b>: show graphically the contents of folders."
+msgstr ""
+"<b>Contenu des dossiers</b> : montrer graphiquement le contenu des dossiers."
+
+#: osconf-bin.sh:898
+msgid "<b>Mount storage devices</b>: select formats to mount at startup."
+msgstr ""
+"<b>Montage des périphériques de stockage</b> : sélectionner les formats à "
+"monter au démarrage."
+
+#: osconf-bin.sh:907
+msgid "<b>AutoSave</b>: manage save of the session."
+msgstr "<b>AutoSave</b> : gérer la sauvegarde de la session."
+
+#: osconf-bin.sh:916
+msgid "<b>PupSave infos</b>: size available/used for personal storage file."
+msgstr ""
+"<b>Infos pupsave</b> : taille disponible/utilisée pour le fichier personnel "
+"de stockage."
+
+#: osconf-bin.sh:925
+msgid "<b>PupSave resize</b>: increase personal storage file."
+msgstr ""
+"<b>Redimensionner le pupSave</b> : augmenter la taille du fichier personnel "
+"de sauvegarde."
+
+#: osconf-bin.sh:934
+msgid "<b>PupSave blank</b>: create a blank pupsave file."
+msgstr "<b>PupSave vierge</b> : créer un fichier pupsave vierge."
+
+#: osconf-bin.sh:943
+msgid "<b>Swap manager</b>: create/manage virtual swap space."
+msgstr ""
+"<b>Gestionnaire du swap</b> : créer/gérer le fichier swap (mémoire "
+"virtuelle)."
+
+#: osconf-bin.sh:967
+msgid "<b>Hardware infos</b>: view hardware informations."
+msgstr "<b>Infos matérielles</b> : voir les informations matérielles."
+
+#: osconf-bin.sh:976
+msgid "<b>System hardware</b>: view system hardware interface information."
+msgstr "<b>Système matériel</b> : voir les informations système du matériel."
+
+#: osconf-bin.sh:985
+msgid "<b>Printer</b>: install/add printer."
+msgstr "<b>Imprimante</b> : installer/ajouter une imprimante."
+
+#: osconf-bin.sh:994
+msgid "<b>Print Manager</b>: manage state/output of installed printers."
+msgstr ""
+"<b>Gestionnaire d'imprimantes</b> : gérer état/sortie des imprimantes "
+"installées."
+
+#: osconf-bin.sh:1003
+msgid "<b>Audio level</b>: set sound level (all users)."
+msgstr ""
+"<b>Volume sonore</b> : régler le niveau sonore (tous les utilisateurs)."
+
+#: osconf-bin.sh:1012
+msgid "<b>Audio level</b>: set sound level (expert users)."
+msgstr "<b>Volume sonore</b> : régler le niveau sonore (utilisateurs experts)."
+
+#: osconf-bin.sh:1021
+msgid "<b>Sound card wizard</b>: install the system audio card driver."
+msgstr "<b>Assistant carte son</b> : installer un pilote pour la carte audio."
+
+#: osconf-bin.sh:1030
+msgid "<b>Multiple sound card wizard</b>: set multiple sound cards."
+msgstr "<b>Assistant cartes son multiples</b> : définir plusieurs cartes son."
+
+#: osconf-bin.sh:1040
+msgid "<b>Video report</b>: view display and video-chip information."
+msgstr ""
+"<b>Rapport vidéo</b> : voir les informations sur l'affichage et la puce "
+"graphique."
+
+#: osconf-bin.sh:1049
+msgid "<b>Xorg video wizard</b>: modify screen configuration."
+msgstr "<b>Assistant vidéo Xorg</b> : modifier la configuration de l'écran."
+
+#: osconf-bin.sh:1058
+msgid "<b>Touchpad</b>: adjust properties of Synaptics touchpad."
+msgstr "<b>Pavé tactile</b> : ajuster les propriétés du touchpad Synaptics."
+
+#: osconf-bin.sh:1067
+msgid "<b>CPU frequency</b>: set dynamic CPU (processor) cooling."
+msgstr ""
+"<b>Fréquence du CPU</b> : définir le refroidissement dynamique du CPU "
+"(processeur)."
+
+#: osconf-bin.sh:1091
+msgid "<b>Default apps</b>: select default applications."
+msgstr ""
+"<b>Applications par défaut</b> : sélectionner les applications par défaut."
+
+#: osconf-bin.sh:1100
+msgid "<b>Quick setup</b>: first-run settings."
+msgstr "<b>Configuration rapide</b> : réglages au premier démarrage."
+
+#: osconf-bin.sh:1109
+msgid "<b>Country</b>: set locale (date, font, money) and timezone."
+msgstr ""
+"<b>Pays</b> : définir les paramètres régionaux (date, police, argent) et le "
+"fuseau horaire."
+
+#: osconf-bin.sh:1118
+msgid "<b>Hardware Clock</b>: set hardware clock type (localtime or UTC)."
+msgstr ""
+"<b>Horloge matérielle</b> : configurer l'horloge matérielle (localtime or "
+"UTC)."
+
+#: osconf-bin.sh:1127
+msgid "<b>Time, date</b>: set the current local time and date."
+msgstr "<b>Heure, date</b> : définir l'heure et la date locale."
+
+#: osconf-bin.sh:1136
+msgid "<b>Time update</b>: sync/update clock with time servers."
+msgstr ""
+"<b>Mettre à jour l'heure</b> : synchroniser/mettre à jour l'horloge avec un "
+"serveur."
+
+#: osconf-bin.sh:1145
+msgid "<b>Keyboard numlock</b>: enable/disable keyboard numlock."
+msgstr ""
+"<b>Verrouillage du clavier numérique</b> : activer/désactiver le "
+"verrouillage du clavier numérique."
+
+#: osconf-bin.sh:1154
+msgid "<b>Keyboard configuration</b>: change keyboard layout."
+msgstr "<b>Configuration du clavier</b> : changer la disposition du clavier."
+
+#: osconf-bin.sh:1178
+msgid "<b>OS infos</b>: consult infos about the operating system."
+msgstr ""
+"<b>Infos OS</b> : consulter des informations à propos du système "
+"d'exploitation."
+
+#: osconf-bin.sh:1187
+msgid "<b>System infos</b>: view detailed information about system."
+msgstr "<b>Infos système</b> : voir les informations système détaillées."
+
+#: osconf-bin.sh:1196
+msgid "<b>OS updater</b>: update the operating system."
+msgstr "<b>OS updater</b> : mettre à jour le système d'exploitation."
+
+#: osconf-bin.sh:1205
+msgid "<b>Task Manager</b>: check/manage running tasks."
+msgstr ""
+"<b>Gestionnaire des tâches</b> : vérifier/gérer l'exécution des tâches en "
+"cours."
+
+#: osconf-bin.sh:1214
+msgid "<b>Process manager</b>: check/manage running processes."
+msgstr ""
+"<b>Gestionnaire des processus</b> : vérifier/gérer les processus en cours "
+"d'exécution."
+
+#: osconf-bin.sh:1223
+msgid "<b>Swap infos</b>: consult the use of virtual memory (swap)."
+msgstr ""
+"<b>Infos swap</b> : consulter l'utilisation de la mémoire virtuelle (swap)."
+
+#: osconf-bin.sh:1232
+msgid "<b>Pupmode infos</b>: get information about current pupmode."
+msgstr ""
+"<b>Infos pupmode</b> : obtenir des informations sur le pupmode courant."
+
+#: osconf-bin.sh:1241
+msgid "<b>Boot loader</b>: use grub to config bootloader."
+msgstr ""
+"<b>Chargeur de démarrage</b> : utiliser Grub pour configurer le démarrage."
+
+#: osconf-bin.sh:1250
+msgid "<b>Boot loader</b>: use grub4dos to config bootloader."
+msgstr ""
+"<b>Chargeur de démarrage</b> : utiliser Grub4Dos pour configurer le "
+"démarrage."
+
+#: osconf-bin.sh:1259
+msgid "<b>Event manager</b>: hot-plugging/save-session/power-off."
+msgstr ""
+"<b>Gestionnaire d'événements</b> : branchement à chaud/enregistrement de la "
+"session/mise hors tension."
+
+#: osconf-bin.sh:1268
+msgid "<b>Boot manager</b>: SFS-files/driver/services."
+msgstr "<b>Gestionnaire de démarrage</b> : fichiers SFS/pilotes/services."
+
+#: osconf-bin.sh:1277
+msgid "<b>Boot services Manager</b>: configure system services."
+msgstr ""
+"<b>Gestionnaire des services au démarrage</b> : gérer les services au "
+"démarrage."
+
+#: osconf-bin.sh:1301
+msgid ""
+"<b>Password</b> (applications): configure the use of password for secure "
+"access to various utilities."
+msgstr ""
+"<b>Mot de passe</b> (applications) : configurer l'utilisation d'un mot de "
+"passe afin de sécuriser l'accès de certaines applications."
+
+#: osconf-bin.sh:1310
+msgid "<b>NTFS access</b>: set access to NTFS partitions."
+msgstr "<b>Accès NTFS</b> : définir l'accès aux partitions NTFS."
+
+#: osconf-bin.sh:1319
+msgid "<b>Login manager</b>: configure login and security."
+msgstr "<b>Gestionnaire de session</b> : connexion à la session en cours."
+
+#: osconf-bin.sh:1328
+msgid "<b>Screen lock</b>: configure/activate screen locking."
+msgstr "<b>Blocage d'écran</b> : configurer/activer le blocage d'écran."
+
+#: osconf-bin.sh:1352
+msgid "<b>MoManager</b>: translate applications to non-English format."
+msgstr "<b>MoManager</b>: traduire les applications."
+
+#: osconf-bin.sh:1361
+msgid ""
+"<b>Remove builtin</b>: delete packages that are builtin in operating system."
+msgstr ""
+"<b>Retirer applications intégrées</b> : supprimer des paquets intégrés au "
+"système d'exploitation."
+
+#: osconf-bin.sh:1370
+#, sh-format
+msgid ""
+"<b>Remaster live-CD</b>: create your customized version of $DISTRO_NAME "
+"$DISTRO_VERSION."
+msgstr ""
+"<b>Remasteriser le live-CD</b >: créer votre version personnalisée de "
+"$DISTRO_NAME $DISTRO_VERSION."
+
+#: osconf-bin.sh:1379
+msgid "<b>Stats control</b>: manage user statistics."
+msgstr "<b>Stats control</b> : gérer les statistiques utilisateurs."
+
+#: osconf-bin.sh:1388
+msgid "<b>JWM theme maker</b>: edit/create a JWM theme."
+msgstr "<b>Créateur de thème JWM</b> : éditer/créer un thème JWM."
+
+#: osconf-bin.sh:1405
+#, sh-format
+msgid "Define preferences of $AppTitle01."
+msgstr "Définir les préférences de $AppTitle01."
+
+#: osconf-bin.sh:1411
+#, sh-format
+msgid "Help for $AppTitle01."
+msgstr "Aide pour $AppTitle01."
+
+#: osconf-bin.sh:1416
+#, sh-format
+msgid "Version and authors of $AppTitle01."
+msgstr "Version et auteurs de $AppTitle01."
+
+#: osconf-bin.sh:1421
+#, sh-format
+msgid "Alternative general setup for $DISTRO_NAME $DISTRO_VERSION."
+msgstr "Configuration générale alternative pour $DISTRO_NAME $DISTRO_VERSION."
+
+#: osconf-bin.sh:1426
+#, sh-format
+msgid "Quit $AppTitle01."
+msgstr "Quitter $AppTitle01."
+
+#: osconf.sh:41
+msgid "Infos"
+msgstr "Infos"
+
+#: osconf.sh:41
+#, sh-format
+msgid "$ANL01 is already active."
+msgstr "$ANL01 est déjà activé."

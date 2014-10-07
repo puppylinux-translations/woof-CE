@@ -1,0 +1,78 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: bcrypt_gui\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-09-07 22:52+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: dekani <dekani1500@gmail.com>\n"
+"Language-Team: French <jj@moulinier.net>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: France\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: bcrypt_gui.sh:20
+msgid "Bcrypt error"
+msgstr "Erreur bcrypt"
+
+#: bcrypt_gui.sh:20
+msgid "The 'bcrypt' package must be installed first."
+msgstr "Le paquet 'bcrypt' doit d'abord être installé."
+
+#: bcrypt_gui.sh:42
+msgid "File encryption"
+msgstr "Cryptage de fichier"
+
+#: bcrypt_gui.sh:44
+msgid "Bcrypt is a utility to encrypt or decrypt a file"
+msgstr "Bcrypt est un utilitaire pour crypter ou décrypter un fichier"
+
+#: bcrypt_gui.sh:44
+msgid "Drag the file you want to <b>encrypt or decrypt</b> into the field or use the browse-button."
+msgstr "Faire glisser le fichier que vous voulez <b>crypter ou décrypter</b> dans le champ ou utiliser le bouton naviguer."
+
+#: bcrypt_gui.sh:48
+msgid "File to encrypt / decrypt"
+msgstr "Fichier à crypter / décrypter"
+
+#: bcrypt_gui.sh:63
+#, fuzzy
+msgid "Enter password"
+msgstr "Entrez le mot de passe:"
+
+#: bcrypt_gui.sh:70
+#, fuzzy
+msgid "Reenter password"
+msgstr "Confirmez le mot de passe:"
+
+#: bcrypt_gui.sh:83
+msgid "Help"
+msgstr "Aide"
+
+#: bcrypt_gui.sh:90
+msgid "Cancel"
+msgstr "Annuler"
+
+#: bcrypt_gui.sh:95
+msgid "Ok"
+msgstr "Ok"
+
+#: bcrypt_gui.sh:116
+msgid "Password needs to be at least 8 characters!"
+msgstr "Le mot de passe doit contenir 8 caratères minimum!"
+
+#: bcrypt_gui.sh:120
+msgid "The password entries do not match!"
+msgstr "Les mots de passe ne correspondent pas!"
+
+#~ msgid "For file encryption or decryption, drag the file here"
+#~ msgstr "Faites glisser ici le fichier à crypter ou décrypter"
+
+#~ msgid "To unencrypt this file, enter the password:"
+#~ msgstr "Pour crypter ce fichier, entrez un mot de passe :"
+
+#~ msgid "Wrong password! try again:"
+#~ msgstr "Mot de passe incorrect! Veuillez réessayer:"

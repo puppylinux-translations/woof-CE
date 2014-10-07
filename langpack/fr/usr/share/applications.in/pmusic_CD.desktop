@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=pMusic: CD player/ripper
+Name[fr]=pMusic : lecteur/extracteur de CD
+Icon=/usr/share/pixmaps/puppy/cd_audio.svg
+Comment=pMusic: CD player/ripper
+Comment[fr]=pMusic : lecteur/extracteur de CD
+Terminal=false
+Type=Application
+Categories=Audio
+Exec=pmusic_CD
+GenericName=pMusic: CD player/ripper

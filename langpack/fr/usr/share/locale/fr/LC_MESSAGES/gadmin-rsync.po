@@ -1,0 +1,823 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: gadmin-rsync\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-06-04 13:16+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: dekani <dekani1500@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"Language: fr\n"
+"X-Generator: Poedit 1.5.7\n"
+
+msgid ""
+"The backup has no backup script.\n"
+"You need to add a backup first.\n"
+msgstr ""
+"La sauvegarde n'a pas de script de sauvegarde.\n"
+"Vous devez ajouter une première sauvegarde.\n"
+
+msgid "Error: Backup script doesnt exist.\n"
+msgstr "Erreur: Le script de sauvegarde n'existe pas.\n"
+
+msgid "All fields must be filled in correctly.\n"
+msgstr "Tous les champs doivent être remplis correctement.\n"
+
+msgid ""
+"Could not upload public key to the remote host.\n"
+"Make sure that the remote ssh server is started and that all settings are correct.\n"
+msgstr ""
+"Impossible d'envoyer la clef publique vers le serveur distant.\n"
+"Vérifier que le serveur ssh distant est démarré et que tous les paramètres sont corrects.\n"
+
+msgid "All fields must be filled in.\n"
+msgstr "Tous les champs doivent être remplis.\n"
+
+#, c-format
+msgid "GAdmin-Rsync %s source server selection"
+msgstr "Sélection du serveur source GAdmin-Rsync %s"
+
+#, c-format
+msgid "GAdmin-Rsync %s destination server selection"
+msgstr "Sélection du serveur destination GAdmin-Rsync %s"
+
+msgid "Supply source server information:"
+msgstr "Fournir les informations du serveur source:"
+
+msgid "Supply destination server information:"
+msgstr "Fournir les informations du serveur destination:"
+
+msgid " Remote server: "
+msgstr " Serveur distant:"
+
+msgid " Remote path: "
+msgstr " Chemin distant:"
+
+msgid " Remote port: "
+msgstr " Port distant:"
+
+msgid " Remote user: "
+msgstr " Utilisateur distant:"
+
+msgid " Remote password: "
+msgstr " Mot de passe distant:"
+
+msgid " Key type: "
+msgstr " Type de clef:"
+
+msgid " Key length: "
+msgstr " Longueur de clef:"
+
+#, c-format
+msgid "GAdmin-Rsync %s backup selection"
+msgstr "Sélection de la sauvegarde GAdmin-Rsync %s"
+
+msgid "Local backup:"
+msgstr "Sauvegarde locale:"
+
+msgid "Local to remote backup:"
+msgstr "Sauvegarde locale vers distante:"
+
+msgid "Remote to local backup:"
+msgstr "Sauvegarde distante vers locale:"
+
+msgid "Mounted on"
+msgstr "Monté"
+
+msgid "Free space"
+msgstr "Espace libre"
+
+msgid "Used space"
+msgstr "Espace utilisé"
+
+msgid "Total space"
+msgstr "Espace total"
+
+msgid "Percent used"
+msgstr "Pourcentage utilisé"
+
+msgid "Device"
+msgstr "Appareil"
+
+msgid "Run selected backup"
+msgstr "Démarrer la sauvegarde sélectionnée"
+
+msgid "Cancel backup"
+msgstr "Annuler la sauvegarde"
+
+msgid "Restore from selection"
+msgstr "Restaurer à partir de la sélection"
+
+msgid "Help"
+msgstr "Aide"
+
+msgid "About"
+msgstr "A propos de"
+
+msgid "Quit"
+msgstr "Quitter"
+
+msgid "Backup settings"
+msgstr "Paramètres de la sauvegarde"
+
+msgid "Backup progress"
+msgstr "Progression de la sauvegarde"
+
+msgid "Disc"
+msgstr "Disque"
+
+msgid "Server settings"
+msgstr "Paramètres du serveur"
+
+msgid "Information: cant read version"
+msgstr "Information: Impossible de lire la version"
+
+msgid "Status: unknown"
+msgstr "Statut: inconnu"
+
+msgid "The backup name is too short.\n"
+msgstr "Le nom de la sauvegarde est trop court.\n"
+
+msgid "The backup name contains special chars that cannot be used.\n"
+msgstr "Le nom de la sauvegarde contient des caractères spéciaux inutilisables.\n"
+
+msgid ""
+"A backup with this name already exists.\n"
+"Choose another backup name and try again.\n"
+msgstr ""
+"Une sauvegarde avec ce nom existe déjà.\n"
+"Choisir un autre nom de sauvegarde et réessayer.\n"
+
+#, c-format
+msgid ""
+"Error: Can not write backup settings here:\n"
+"%s\n"
+msgstr ""
+"Erreur:Impossible d'écrire les paramètres de sauvegarde ici:\n"
+"%s\n"
+
+msgid "Backup name too short, backup not deleted\n"
+msgstr "Le nom de la sauvegarde trop court, sauvegarde non supprimée\n"
+
+msgid "New Backup settings:"
+msgstr "Nouveau paramètres de sauvegarde:"
+
+msgid " The name of the new backup: "
+msgstr "Le nom de la nouvelle sauvegarde:"
+
+msgid "Add data to this backup."
+msgstr "Ajouter des données à cette sauvegarde."
+
+msgid "Add backup data"
+msgstr "Ajouter les données de la sauvegarde"
+
+msgid "Remove selection from backup."
+msgstr "Supprimer la sélection de la sauvegarde."
+
+msgid "Remove selected data"
+msgstr "Supprimer les données sélectionnées"
+
+msgid "Source server"
+msgstr "Serveur source"
+
+msgid "Source directory or file"
+msgstr "Répertoire ou fichier source"
+
+msgid "Destination server"
+msgstr "Serveur de destination"
+
+msgid "Destination directory or file"
+msgstr "Répertoire ou fichier de destination"
+
+msgid "Include pattern"
+msgstr "Inclure modèle"
+
+msgid "Exclude pattern"
+msgstr "Exclure modèle"
+
+msgid "Include in backup"
+msgstr "Inclure dans la sauvegarde"
+
+msgid "Delete destination files that does not exist in source"
+msgstr "Supprimer les fichiers de destination qui n'existe pas dans la source"
+
+msgid "Remote username"
+msgstr "Utilisateur distant"
+
+msgid "Remote port"
+msgstr "Port distant"
+
+msgid "Private key for remote server"
+msgstr "Clef privée pour le serveur distant"
+
+msgid "Delete the selected backup."
+msgstr "Supprimer la sauvegarde sélectionnée."
+
+msgid "Delete selected backup"
+msgstr "Supprimer la sauvegarde sélectionnée"
+
+msgid " Selected backup: "
+msgstr " Sauvegarde sélectionnée:"
+
+msgid "Create a new backup."
+msgstr "Créer une nouvelle sauvegarde."
+
+msgid "Create new backup"
+msgstr "Créer une nouvelle sauvegarde"
+
+msgid "Save this backup."
+msgstr "Enregistrer cette sauvegarde."
+
+msgid "Save backup"
+msgstr "Enregistrer la sauvegarde"
+
+msgid "Show log for the selected backup."
+msgstr "Afficher les traces pour la sauvegarde sélectionnée."
+
+msgid "Show backup log"
+msgstr "Afficher les traces de la sauvegarde"
+
+msgid "Schedule this backup to run at specific times: "
+msgstr "Planifier cette sauvegarde pour qu'elle démarre à certaines heures: "
+
+msgid "Month day"
+msgstr "Jour du mois"
+
+msgid ""
+"The backup will run on the specified day of the month.\n"
+"Uncheck any weekdays to have a monthly backup."
+msgstr ""
+"La sauvegarde démarrera pour le jour du mois spécifié .\n"
+"Décocher tous les jours de la semaine pour une sauvegarde mensuelle."
+
+msgid "Not monthly: "
+msgstr "Non mensuel:"
+
+msgid "If selected, the backup will run on the specified days and times instead of once a month."
+msgstr "Si sélectionné, la sauvegarde démarrera pour les jours et heures spécifiés à la place d'une fois par mois."
+
+msgid "Monday: "
+msgstr "Lundi:"
+
+msgid "Tuesday: "
+msgstr "Mardi:"
+
+msgid "Wednesday: "
+msgstr "Mercredi:"
+
+msgid "Thursday: "
+msgstr "Jeudi:"
+
+msgid "Friday: "
+msgstr "Vendredi:"
+
+msgid "Saturday: "
+msgstr "Samedi:"
+
+msgid "Sunday: "
+msgstr "Dimanche:"
+
+msgid "Hour"
+msgstr "Heure"
+
+msgid "Every hour: "
+msgstr "Chaque heure:"
+
+msgid "Minute"
+msgstr "Minute"
+
+msgid "Every minute: "
+msgstr "Chaque minute:"
+
+msgid "Backup at shutdown: "
+msgstr "Sauvegarde à l'arrêt:"
+
+msgid "Credits"
+msgstr "Crédits"
+
+msgid "Author: "
+msgstr "Auteurr:"
+
+msgid "I want to thank the following for their contributions:"
+msgstr "Je voudrais remercier les personnes suivantes pour leurs contributions:"
+
+msgid ""
+"The rsync developers.\n"
+"\n"
+msgstr ""
+"Les développeurs rsync.\n"
+"\n"
+
+msgid "for the RPM spec file."
+msgstr "pour le fichiers de specs RPM."
+
+msgid "And all translators:"
+msgstr "Tous les traducteurs:"
+
+msgid "Afrikaans"
+msgstr "Afrikaans"
+
+msgid "Amharic"
+msgstr "Amharique"
+
+msgid "Arabic"
+msgstr "Arabe"
+
+msgid "Azerbaijani"
+msgstr "Azerbaijan"
+
+msgid "Basque"
+msgstr "Basque"
+
+msgid "Bulgarian"
+msgstr "Bulgare"
+
+msgid "Breton"
+msgstr "Breton"
+
+msgid "Brittish-English"
+msgstr "Britannique-Anglais"
+
+msgid "Bosnian"
+msgstr "Bosniaque"
+
+msgid "Byelorussian"
+msgstr "Biélorusse"
+
+msgid "Catalan"
+msgstr "Catalan"
+
+msgid "Chinese"
+msgstr "Chinois"
+
+msgid "Chinese-Taiwan"
+msgstr "Chinois-Taïwanais"
+
+msgid "Croatian"
+msgstr "Croate"
+
+msgid "Czech"
+msgstr "Tchèque"
+
+msgid "Danish"
+msgstr "Danois"
+
+msgid "Dutch"
+msgstr "Néerlandais"
+
+msgid "Esperanto"
+msgstr "Esperanto"
+
+msgid "Estonian"
+msgstr "Estonien"
+
+msgid "Finnish"
+msgstr "Finlandais"
+
+msgid "French"
+msgstr "Français"
+
+msgid "Galician"
+msgstr "Galicien"
+
+msgid "German"
+msgstr "Allemand"
+
+msgid "Greek"
+msgstr "Grec"
+
+msgid "Hebrew"
+msgstr "Hébreu"
+
+msgid "Hini"
+msgstr "Hindi"
+
+msgid "Hungarian"
+msgstr "Hongrois"
+
+msgid "Icelandic"
+msgstr "Islandais"
+
+msgid "Indonesian"
+msgstr "Indonésien"
+
+msgid "Irish"
+msgstr "Irlandais"
+
+msgid "Italian"
+msgstr "Italien"
+
+msgid "Japanese"
+msgstr "Japonais"
+
+msgid "Korean"
+msgstr "Coréen"
+
+msgid "Kurdish"
+msgstr "Kurde"
+
+msgid "Latvian-Lettish"
+msgstr "Lettonais"
+
+msgid "Lithuanian"
+msgstr "Litunanien"
+
+msgid "Macedonian"
+msgstr "Macédonien"
+
+msgid "Maori"
+msgstr "Maori"
+
+msgid "Maltese"
+msgstr "Maltais"
+
+msgid "Norwegian"
+msgstr "Norvégien"
+
+msgid "Polish"
+msgstr "Polonais"
+
+msgid "Portuguese"
+msgstr "Portugais"
+
+msgid "Portuguese-Brazil"
+msgstr "Portugais-Brésil"
+
+msgid "Romanian"
+msgstr "Roumain"
+
+msgid "Russian"
+msgstr "Russe"
+
+msgid "Serbian"
+msgstr "Serbe"
+
+msgid "Slovak"
+msgstr "Slovaque"
+
+msgid "Slovenian"
+msgstr "Slovénien"
+
+msgid "Spanish"
+msgstr "Espagnol"
+
+msgid "Swedish"
+msgstr "Suédois"
+
+msgid "Tamil"
+msgstr "Tamoul"
+
+msgid "Thai"
+msgstr "Thai"
+
+msgid "Turkish"
+msgstr "Turque"
+
+msgid "Traditional Chinese"
+msgstr "Chinois Traditionnel"
+
+msgid "Ukrainian"
+msgstr "Ukrainien"
+
+msgid "Vietnamese"
+msgstr "Vietnamien"
+
+msgid "Wallon"
+msgstr "Wallon"
+
+msgid "Welch"
+msgstr "Gallois"
+
+msgid "Close"
+msgstr "Fermer"
+
+msgid "Error: Unable to create a symlink to the backup script.\n"
+msgstr "Erreur: Impossible de créer un lien symbolique sur le script de sauvegarde.\n"
+
+msgid "Error: The time schedule server \"cron(d)\" does not seem to be running.\n"
+msgstr "Erreur: Le serveur des planifications \"cron(d)\" ne semble pas être démarré..\n"
+
+msgid "Every field must be filled in.\n"
+msgstr "Tous les champs doivent être remplis.\n"
+
+msgid "Error: Can not generate keys for this host.\n"
+msgstr "Erreur: Impossible de générer les clefs à partir de cet hôte.\n"
+
+msgid "Error: The local private key does not exist.\n"
+msgstr "Erreur: La clef privée locale n'existe pas.\n"
+
+msgid "Error: The local public key does not exist.\n"
+msgstr "Erreur: La clef publique locale n'existe pas.\n"
+
+msgid "Error: Could not install the public key on the remote host.\n"
+msgstr "Erreur: Impossible d'installer la clef publique sur l'hôte distant.\n"
+
+msgid "Public key installation on remote host successful.\n"
+msgstr "L'installation de la clef publique sur l'hôte distant a réussie.\n"
+
+msgid "No valid backups to restore from could be found.\n"
+msgstr "Aucune sauvegarde valide pour la restauration n'a été trouvée.\n"
+
+#, c-format
+msgid "GAdmin-Rsync %s Restore from selection"
+msgstr "Restauration GAdmin-Rsync %s à partir de la sélection"
+
+msgid "Supply restore information:"
+msgstr "Fournir les informations de restauration:"
+
+msgid "Source path:"
+msgstr "Chemin de la source:"
+
+msgid "Choose a source directory or file"
+msgstr "Choisir un répertoire ou fichier source"
+
+msgid "Destination path:"
+msgstr "Chemin de la destination:"
+
+msgid "Choose a destination directory or file"
+msgstr "Choisir un répertoire ou fichier destination"
+
+msgid " Source server: "
+msgstr " Serveur source:"
+
+msgid " Source path: "
+msgstr " Chemin de la source:"
+
+msgid "Local destination path:"
+msgstr "Chemin local de la destination:"
+
+msgid "Choose a local destination directory or file"
+msgstr "Choisir un répertoire ou fichier destination local"
+
+msgid "Local source path:"
+msgstr "Chemin de la source locale:"
+
+msgid " Destination server: "
+msgstr " Serveur de destination:"
+
+msgid " Destination path: "
+msgstr " Chemin de la destination:"
+
+msgid "Test only, do not transfer any files: "
+msgstr "Tester seulement, ne transférer aucun fichier:"
+
+msgid "Error: The restore selection is missing a required source or destination path.\n"
+msgstr ""
+"Erreur: Il manque un répertoire source ou destination pour la restauration de la sélection.\n"
+".\n"
+
+msgid "Error: Server to server restores are not supported by rsync.\n"
+msgstr "Erreur: La restauration de serveur à serveur n'est pas supportée par rsync.\n"
+
+#, c-format
+msgid ""
+"Error: Can not restore script here:\n"
+"%s\n"
+msgstr ""
+"Erreur: Impossible de restaurer le script ici:\n"
+"%s\n"
+
+msgid "Error: Can not make the restore script executable.\n"
+msgstr "Erreur: Impossible de rendre le script de restauration exécutable.\n"
+
+msgid "Error: This backup is missing a required source or destination path.\n"
+msgstr "Erreur: Il manque un répertoire source ou destination pour la sauvegarde.\n"
+
+msgid "Error: Server to server backups are not supported by rsync.\n"
+msgstr "Erreur: La sauvegarde de serveur à serveur n'est pas supportée par rsync.\n"
+
+#, c-format
+msgid ""
+"Error: Can not write settings here:\n"
+"%s\n"
+msgstr ""
+"Erreur: Impossible de sauvegarder les paramètres ici:\n"
+"%s\n"
+
+#, c-format
+msgid ""
+"Error: Can not write backup script here:\n"
+"%s\n"
+msgstr ""
+"Erreur: Impossible de le script de sauvegarde ici:\n"
+"%s\n"
+
+msgid "Error: The backup name is too short or missing.\n"
+msgstr "Erreur: Le nom de sauvegarde est trop petit ou manquant.\n"
+
+msgid "Error: script path too short.\n"
+msgstr "Erreur: Le chemin du script est trop court.\n"
+
+#, c-format
+msgid ""
+"Error: Can not write the backup script here:\n"
+"%s\n"
+msgstr ""
+"Erreur: Impossible de sauvegarder le script de sauvegarde ici:\n"
+"%s\n"
+
+msgid "Error: Can not make the backup script executable.\n"
+msgstr "Erreur: Impossible de rendre exécutable le script de sauvegarde\n"
+
+#, c-format
+msgid ""
+"Error: Can not write backup schedule here:\n"
+"%s\n"
+msgstr ""
+"Erreur: Impossible de sauvegarder la planification de la sauvegarde ici:\n"
+"%s\n"
+
+msgid "Set version failed\n"
+msgstr "La modification de version a échoué\n"
+
+#, c-format
+msgid " Information: %s"
+msgstr "Information: %s"
+
+msgid " Information: Rsync is not installed or not in your path."
+msgstr " Information: Rsync n'est pas installé ou n'est pas dans votre 'PATH'."
+
+msgid "Gadmin-Rsync Help"
+msgstr "Aide Gadmin-Rsync"
+
+msgid ""
+"\n"
+"\n"
+"\t\tHow to backup and restore using GAdmin-Rsync.\n"
+"\n"
+"\n"
+msgstr ""
+"\n"
+"\n"
+"\t\tComment sauvegarder ou restaurer en utilisant GAdmin-Rsync.\n"
+"\n"
+"\n"
+
+msgid ""
+"1. Backing up data:\n"
+"\n"
+msgstr ""
+"1. Sauvegarde des données:\n"
+"\n"
+
+msgid "Pressing the \"Create new backup\" button creates and adds a new backup.\n"
+msgstr "Appuyer sur le bouton \"Créer nouvelle sauvegarde\" créé et ajoute une nouvelle sauvegarde.\n"
+
+msgid "When this is done the \"Add backup data\" button can be used to\n"
+msgstr "Quand ceci est fait le bouton \"Ajouter données de sauvegarde\" peut être utilisé\n"
+
+msgid "specify what type of backups to include in the new backup, such as:\n"
+msgstr "spécifier quel type de sauvegardes inclure dans la nouvelle sauvegarde, comme:\n"
+
+msgid "remote to local, local to remote or local to local backups.\n"
+msgstr "Sauvegardes distante vers locale, locale vers distante ou locale vers locale.\n"
+
+msgid "The backups can be started manually with \"Run selected backup.\"\n"
+msgstr "Les sauvegardes peuvent être démarrées manuellement avec \"Démarrer la sauvegarde sélectionnée\".\n"
+
+msgid ""
+"The progress of the backup can be viewed in the progress tab.\n"
+"\n"
+msgstr ""
+"La progression de la sauvegarde peut être vue dans l'onglet progression.\n"
+"\n"
+
+msgid "When everything is working as expected the backups can be\n"
+msgstr "Quand tout marche comme prévu les sauvegardes peuvent être\n"
+
+msgid "scheduled to run at specific times using cron.\n"
+msgstr "planitfiées pour démarrer à un horaire spécifique avec cron.\n"
+
+msgid "Backups can also be scheduled to run at system shutdown.\n"
+msgstr "Les sauvegardes peuvent aussi être planifiées pour démarrer à l'arrêt du système.\n"
+
+msgid ""
+"The backups will not be run if the system is rebooted.\n"
+"\n"
+msgstr ""
+"Les sauvegardes ne démarreront pas si le système est redémarré.\n"
+"\n"
+
+msgid "Logs and extended logs are kept for all backups.\n"
+msgstr "Les traces et traces étendues sont conservées pour toutes les sauvegardes.\n"
+
+msgid ""
+"They can be viewed by clicking on \"Show backup log\" for each backup.\n"
+"\n"
+"\n"
+msgstr ""
+"Elles peuvent être visualisées en cliquant sur \"Afficer les traces de sauvegarde\" pour chaque sauvegarde.\n"
+"\n"
+"\n"
+
+msgid ""
+"2. Restoring data:\n"
+"\n"
+msgstr ""
+"2. Restauration des données:\n"
+"\n"
+
+msgid "Pressing the \"Restore from selection\" button shows a restore menu that\n"
+msgstr "Appuyer sur le bouton \"Restaurer à partir de la sélection\" affiche un menu de restauration qui\n"
+
+msgid "contains relevant source and destination paths depending on the restore type.\n"
+msgstr "contient les chemins pertinents source et destinations dépendants du type de restauration.\n"
+
+msgid "The paths shown are the reverse of the backups.\n"
+msgstr "Les chemins affichés sont l'inverse des sauvegardes.\n"
+
+msgid "Local source and destination paths can be browsed and re-selected.\n"
+msgstr "Les chemins locaux des sources et destinations peuvent être choisis ou re-sélectionnés.\n"
+
+msgid "A slash last in source paths means transfer the content of\n"
+msgstr "Un dernier slash dans les chemins sources indiquent: transférer le contenu\n"
+
+msgid "the directory, IE: \"/path/\" means \"/path/*\".\n"
+msgstr "du répertoire,  IE: \"/chemin/\" veut dire \"/chemin/*\".\n"
+
+msgid "Press the \"Forward\" button when satisfied with the restore selection.\n"
+msgstr "Appuyer sur le bouton \"Suivant\" quand vous êtes satisfait de la sélection.\n"
+
+msgid ""
+"The progress of the restore can be viewed in the progress tab.\n"
+"\n"
+"\n"
+msgstr ""
+"La progression de la restauration peut être vue dans l'onglet progression.\n"
+"\n"
+"\n"
+
+msgid ""
+"3. Technical specifications for backing up and restoring data:\n"
+"\n"
+msgstr ""
+"3. Spécifications techniques pour la sauvegarde ou restauration des données:\n"
+"\n"
+
+msgid "Remote backups and restores are differential and encrypted.\n"
+msgstr "Les sauvegardes et restaurations distantes sont différentielles et cryptées.\n"
+
+msgid "This is achieved by using rsync over ssh.\n"
+msgstr "Ceci est fait en utilisant rsync sur ssh.\n"
+
+msgid "Keys are automatically created and installed on\n"
+msgstr "Les clefs sont automatiquement créées et installées sur\n"
+
+msgid "remote hosts using ssh-keygen, scp and ssh.\n"
+msgstr "les hôtes distants avec ssh-keygen, scp et ssh.\n"
+
+msgid "For this to work the remote hosts must be running ssh servers.\n"
+msgstr "Pour que cela fonctionne les serveurs ssh doivent être démarrés sur les serveurs distants.\n"
+
+msgid "The data is backed up or restored as the selected username.\n"
+msgstr "Les données sont sauvegardées ou restaurées avec le nom d'utilisateur sélectionné.\n"
+
+msgid ""
+"\n"
+"Visit http://www.gadmintools.org\n"
+msgstr ""
+"\n"
+"Visiter http://www.gadmintools.org\n"
+
+#, c-format
+msgid "GAdminRsync %s information"
+msgstr "Informations GAdminRsync %s"
+
+#, c-format
+msgid "GAdmin-Rsync %s \t %s"
+msgstr "GAdmin-Rsync %s \t %s"
+
+msgid "Started"
+msgstr "Débuté"
+
+msgid "Ended"
+msgstr "Terminé"
+
+msgid "Status"
+msgstr "Statut"
+
+msgid "Source"
+msgstr "Source"
+
+msgid "Destination"
+msgstr "Destination"
+
+msgid "Show extended log"
+msgstr "Afficher les traces étendues"
+
+msgid "Extended backup log"
+msgstr "Traces de sauvegarde étendues"
+
+msgid "Status: Backup is not running."
+msgstr "Statut: La sauvegarde n'est pas démarrée."
+
+msgid "Status: Backup is running."
+msgstr "Statut: La sauvegarde est démarrée."
+
+#, c-format
+msgid "Couldn't find pixmap file: %s"
+msgstr "Impossible de trouver le fichier pixmap: %s"
+

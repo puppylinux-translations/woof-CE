@@ -1,0 +1,144 @@
+# French translations for fontmanager package.
+# Copyright (C) 2014 THE fontmanager'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the fontmanager package.
+# root <root@localhost>, 2014.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: fontmanager VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-09-07 22:53+0200\n"
+"PO-Revision-Date: 2014-09-19 19:08+0100\n"
+"Last-Translator: dekani <dekani1500@gmail.com>\n"
+"Language-Team: French\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: fontmanager.sh:36
+msgid "No TTF-file to install"
+msgstr "Pas de fichier TTF à installer"
+
+#: fontmanager.sh:43
+msgid "Font Manager"
+msgstr "Gestionnaire de polices"
+
+#: fontmanager.sh:45
+msgid "Size"
+msgstr "Taille"
+
+#: fontmanager.sh:45
+msgid "Appearance"
+msgstr "Apparence"
+
+#: fontmanager.sh:45
+msgid "Install fonts"
+msgstr "Installer polices"
+
+#: fontmanager.sh:48
+msgid "Global font size"
+msgstr "Taille globale de la police"
+
+#: fontmanager.sh:49
+msgid "Please choose dpi (dots per inch) for the screen. The larger the value, the bigger that antialiased fonts will render on the screen. Adjust up or down if fonts are rendering too small or too big on screen."
+msgstr "Veuillez choisir le PPP (points par pouce) pour l'écran. Plus la valeur est grande, plus le rendu de l'anticrénelage des polices sera élevé à l'écran. Augmenter le ou diminuer le si les polices sont trop petites ou trop grandes à l'écran."
+
+#: fontmanager.sh:49
+#: fontmanager.sh:76
+msgid "Note!"
+msgstr "Note!"
+
+#: fontmanager.sh:49
+msgid "Some apps do not use antialiased rendering and will not be affected by this setting."
+msgstr "Certaines apps n'utilisent pas l'anticrénelage et ne seront pas affectées par ce paramètre."
+
+#: fontmanager.sh:49
+msgid "Restart X for changes to take effect"
+msgstr "Redémarrer X pour appliquer les modifications"
+
+#: fontmanager.sh:54
+msgid "Choose global fontsize"
+msgstr "Choisir la taille globale de la police"
+
+#: fontmanager.sh:75
+msgid "Font appearance"
+msgstr "Apparence de la police"
+
+#: fontmanager.sh:76
+msgid "You can change the way fonts appear on your screen: make them either sharper or smoother."
+msgstr "Vous pouvez changer la façon dont les polices sont affichées à l'écran : faire qu'elles soient plus nettes ou plus douces."
+
+#: fontmanager.sh:76
+msgid "For LCD it is recommend to turn everything on. For CRT screens, do the opposite."
+msgstr "Pour les LCD, il est recommandé de tout activer. Pour les écrans CRT, faire le contraire."
+
+#: fontmanager.sh:76
+msgid "Restart application for changes to take affect."
+msgstr "Redémarrer l'application pour appliquer les modifications."
+
+#: fontmanager.sh:79
+msgid "If checked, fonts will be smoothed with antialiasing."
+msgstr "Si coché, les polices seront lissées par l'anticrénelage."
+
+#: fontmanager.sh:80
+msgid "Antialiasing"
+msgstr "Anticrénelage"
+
+#: fontmanager.sh:84
+msgid "If checked, fonts will be smoothed with hinting."
+msgstr ""
+
+#: fontmanager.sh:85
+msgid "Hinting"
+msgstr ""
+
+#: fontmanager.sh:91
+msgid "Automatic hinting"
+msgstr ""
+
+#: fontmanager.sh:96
+msgid "Hint style"
+msgstr ""
+
+#: fontmanager.sh:108
+msgid "Install font"
+msgstr "Installer une police"
+
+#: fontmanager.sh:109
+msgid "Define a *.TTF file by browsing, or just drag it to the field below. Then click install. Windows TTF-files are fine."
+msgstr "Choisir un fichier *.TTF en naviguant, ou faites le glisser dans le champ ci-dessous. Puis cliquer sur installer. Les polices TTF windows sont valides."
+
+#: fontmanager.sh:109
+msgid "To install several fonts at once, copy new *.TTF files to the font directory"
+msgstr "Pour installer plusieurs polices en une fois, copier les nouveaux fichiers *.TTF dans le répertoire des polices"
+
+#: fontmanager.sh:109
+msgid "and click install."
+msgstr "et cliquer sur installer."
+
+#: fontmanager.sh:109
+msgid "You find a lot of free fonts on the web. - ie. at"
+msgstr "Vous pouvez trouver plein de polices sur le web. -ie.at"
+
+#: fontmanager.sh:123
+msgid "Open font directory"
+msgstr "Ouvrir le répertoire des polices"
+
+#: fontmanager.sh:128
+msgid "Install font(s)"
+msgstr "Installer police(s)"
+
+#: fontmanager.sh:142
+msgid "View installed fonts"
+msgstr "Voir les polices installées"
+
+#: fontmanager.sh:147
+msgid "Cancel"
+msgstr "Annuler"
+
+#: fontmanager.sh:152
+msgid "Ok"
+msgstr "Ok"
+

@@ -1,0 +1,4070 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: geany 0.18\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-08-16 21:09+0200\n"
+"PO-Revision-Date: 2010-06-01 15:10+0100\n"
+"Last-Translator: Jean-Philippe Moal <skateinmars@skateinmars.net>\n"
+"Language-Team: French <geany-i18n@uvena.de>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+msgid "\"%s\" was not found."
+msgstr "\"%s\" n'a pu être trouvé."
+
+msgid "%d file saved."
+msgid_plural "%d files saved."
+msgstr[0] "%d fichier enregistré."
+msgstr[1] "%d fichiers enregistrés."
+
+msgid ""
+"%d, %e, %f, %p are substituted in command and directory fields, see manual "
+"for details."
+msgstr ""
+"%d, %e, %f, %p sont remplacés par les répertoires et nom de commandes, voir "
+"le manuel pour plus de détails."
+
+msgid "%s %s -- %s (in directory: %s)"
+msgstr "%s %s -- %s (dans le dossier : %s)"
+
+msgid "%s (in directory: %s)"
+msgstr "%s (dans le dossier : %s)"
+
+msgid "%s Commands"
+msgstr "Commandes pour %s"
+
+msgid "%s file"
+msgstr "fichier %s"
+
+msgid "%s script file"
+msgstr "fichier de script %sl"
+
+msgid "%s source file"
+msgstr "Fichier source %s"
+
+msgid "%s: replaced %d occurrence of \"%s\" with \"%s\"."
+msgid_plural "%s: replaced %d occurrences of \"%s\" with \"%s\"."
+msgstr[0] "%s : Remplacement de %d occurrence de \"%s\" par \"%s\"."
+msgstr[1] "%s : Remplacement de %d occurrences de \"%s\" par \"%s\"."
+
+msgid "(built on %s with GTK %d.%d.%d, GLib %d.%d.%d)"
+msgstr "(construit le %s avec GTK %d.%d.%d, GLib %d.%d.%d)"
+
+msgid "(built on or after %s)"
+msgstr "(construit le %s ou ultérieurement)"
+
+msgid "(only inside Geany)"
+msgstr "(seulement pour Geany)"
+
+msgid "(with BOM)"
+msgstr "(avec BOM)"
+
+msgid "(without BOM)"
+msgstr "(sans BOM)"
+
+msgid ", read-only"
+msgstr ", lecture seule"
+
+msgid "--- Separator ---"
+msgstr "--- Séparateur ---"
+
+msgid "<b>Accessed:</b>"
+msgstr "<b>Accédé :</b>"
+
+msgid "<b>Auto-close quotes and brackets</b>"
+msgstr "<b>Fermeture automatique des guillemets, accolades et crochets</b>"
+
+msgid "<b>Changed:</b>"
+msgstr "<b>Changé :</b>"
+
+msgid "<b>Commands</b>"
+msgstr "<b>Commandes</b>"
+
+msgid "<b>Completions</b>"
+msgstr "<b>Complétions</b>"
+
+msgid "<b>Display</b>"
+msgstr "<b>Affichage</b>"
+
+msgid "<b>Editor tabs</b>"
+msgstr "<b>Onglets de l'éditeur</b>"
+
+msgid "<b>Encoding:</b>"
+msgstr "<b>Encodage :</b>"
+
+msgid "<b>Encodings</b>"
+msgstr "<b>Encodage</b>"
+
+msgid "<b>Features</b>"
+msgstr "<b>Fonctionnalités</b>"
+
+msgid "<b>Fonts</b>"
+msgstr "<b>Polices</b>"
+
+msgid "<b>Icon Size</b>"
+msgstr "<b>Taille des icônes :</b>"
+
+msgid "<b>Icon Style</b>"
+msgstr "<b>Style des icônes</b>"
+
+msgid "<b>Indentation</b>"
+msgstr "<b>Indentation</b>"
+
+msgid "<b>Keyboard shortcuts</b>"
+msgstr "<b>Raccourcis clavier</b>"
+
+msgid "<b>Location:</b>"
+msgstr "<b>Emplacement :</b>"
+
+msgid "<b>Long line marker</b>"
+msgstr "<b>Marqueur des longues lignes</b>"
+
+msgid "<b>Miscellaneous</b>"
+msgstr "<b>Divers</b>"
+
+msgid "<b>Modified:</b>"
+msgstr "<b>Modifié :</b>"
+
+msgid "<b>New files</b>"
+msgstr "<b>Nouveaux fichiers</b>"
+
+msgid "<b>Page %d of %d</b>"
+msgstr "<b>Page %d sur %d</b>"
+
+msgid "<b>Paths</b>"
+msgstr "<b>Chemins</b>"
+
+msgid "<b>Permissions:</b>"
+msgstr "<b>Permissions :</b>"
+
+msgid "<b>Plugin details:</b>"
+msgstr "<b>Détails du plugin :</b>"
+
+msgid "<b>Printing</b>"
+msgstr "<b>Impression</b>"
+
+msgid "<b>Projects</b>"
+msgstr "<b>Projets</b>"
+
+msgid "<b>Read-only:</b>"
+msgstr "<b>Lecture seule :</b>"
+
+msgid "<b>Saving files</b>"
+msgstr "<b>Enregistrement des fichiers</b>"
+
+msgid "<b>Search</b>"
+msgstr "<b>Recherche</b>"
+
+msgid "<b>Shutdown</b>"
+msgstr "<b>Fermeture</b>"
+
+msgid "<b>Sidebar</b>"
+msgstr "<b>Barre latérale</b>"
+
+msgid "<b>Size:</b>"
+msgstr "<b>Taille :</b>"
+
+msgid "<b>Startup</b>"
+msgstr "<b>Démarrage</b>"
+
+msgid "<b>Tab positions</b>"
+msgstr "<b>Position des onglets</b>"
+
+msgid "<b>Template data</b>"
+msgstr "<b>Données des modèles</b>"
+
+msgid "<b>Tool paths</b>"
+msgstr "<b>Chemins des outils</b>"
+
+msgid "<b>Toolbar</b>"
+msgstr "<b>Barre d'outils</b>"
+
+msgid "<b>Type:</b>"
+msgstr "<b>Type :</b>"
+
+msgid "<b>Virtual spaces</b>"
+msgstr "<b>Espaces virtuels</b>"
+
+msgid ""
+"<i>Notice: For all changes you make here to take effect, you need to restart "
+"Geany or force the reload of the settings using Tools->Reload Configuration."
+"</i>"
+msgstr ""
+"<i>Note : vous devrez relancer Geany pour que tous les changements effectués "
+"ici prennent effet, ou bien vous pouvez forcer Geany à recharger les "
+"paramètres en utilisant le menu Outils -> Recharger la configuration.</i>"
+
+msgid ""
+"<i>Notice: Native GTK printing is only available if Geany was built against "
+"GTK 2.10 (or above) <b>and</b> Geany is running with GTK 2.10 (or above).</i>"
+msgstr ""
+"<i>Note : l'impression GTK native est uniquement disponible si Geany a été "
+"compilé avec GTK 2.10 (ou supérieur) <b>et</b> Geany fonctionne avec GTK "
+"2.10 (ou supérieur).</i>"
+
+msgid ""
+"<i>Warning: these settings are overridden by the current project. See "
+"<b>Project->Properties</b>.</i>"
+msgstr ""
+"<i>Avertissement : ces préférences sont remplacées par celles du projet "
+"courant. Voir <b>Projet->Propriétés</b>.</i>"
+
+msgid "A fast and lightweight IDE"
+msgstr "Un EDI rapide et léger"
+
+msgid "A fast and lightweight IDE using GTK2"
+msgstr "Un EDI rapide et léger utilisant GTK2"
+
+msgid ""
+"A string which is added when toggling a line comment in a source file, it is "
+"used to mark the comment as toggled."
+msgstr ""
+"Une chaîne de caractères qui est ajoutée quand on utilise la commande "
+"\"Commenter/Décommenter la ligne\", elle sert à marquer le commentaire."
+
+msgid ""
+"A terminal emulator like xterm, gnome-terminal or konsole (should accept the "
+"-e argument)"
+msgstr ""
+"Un émulateur de terminal comme xterm, gnome-terminal ou konsole (doit "
+"accepter l'option -e )"
+
+msgid "About Geany"
+msgstr "À propos de Geany"
+
+msgid "Action"
+msgstr "Action"
+
+msgid "Active"
+msgstr "Actif"
+
+msgid ""
+"Add a little header to every page containing the page number, the filename "
+"and the current date (see below). It takes 3 lines of the page."
+msgstr ""
+"Ajoute un court en-tête à chaque page contenant le numéro de page, le nom du "
+"fichier et la date (voir ci-après). Cela prend 3 lignes par page."
+
+msgid "Add line numbers to the printed page"
+msgstr "Ajouter les numéros de lignes à la page imprimée"
+
+msgid ""
+"Add page numbers at the bottom of each page. It takes 2 lines of the page."
+msgstr ""
+"Ajouter la numérotation des pages en bas de chaque page. Cela prend 2 lignes "
+"par page."
+
+msgid "Adds a file browser tab to the sidebar."
+msgstr "Ajoute un onglet navigateur de fichiers à la barre latérale."
+
+msgid "All Source"
+msgstr "Tout fichier source"
+
+msgid "All files"
+msgstr "Tous les fichiers"
+
+msgid ""
+"Allows the VTE to receive keyboard shortcuts (apart from focus commands)"
+msgstr ""
+"Autorise le VTE à utiliser des raccourcis clavier (mis à part ceux de focus)"
+
+msgid "Always"
+msgstr "Toujours"
+
+msgid "Always show virtual spaces beyond the end of lines"
+msgstr "Toujours afficher les espaces virtuels après les fins de lignes"
+
+msgid "Always wrap search and hide the Find dialog"
+msgstr ""
+"Toujours reprendre la recherche en boucle et cacher la fenêtre de recherche"
+
+msgid ""
+"Always wrap search around the document and hide the Find dialog after "
+"clicking Find Next/Previous"
+msgstr ""
+"Toujours reprendre la recherche en boucle et cacher la fenêtre de recherche "
+"après un clic sur Suivant/Précédent"
+
+msgid ""
+"An error occurred or file information could not be retrieved (e.g. from a "
+"new file)."
+msgstr ""
+"Une erreur s'est produite ou une information sur un fichier n'a pas pu être "
+"récupérée (ex. depuis un nouveau fichier)."
+
+msgid ""
+"An error occurred while converting the file from UTF-8 in \"%s\". The file "
+"remains unsaved."
+msgstr ""
+"Une erreur s'est produite lors de la conversion du fichier depuis l'UTF-8 "
+"vers \"%s\". Le fichier reste non sauvegardé."
+
+msgid "Anchors"
+msgstr "Ancres"
+
+msgid "Any unsaved changes will be lost."
+msgstr "Tout changement non enregistré sera perdu."
+
+msgid "Appendix"
+msgstr "Annexe"
+
+msgid "Arabic"
+msgstr "Arabe"
+
+msgid "Architectures"
+msgstr "Architectures"
+
+msgid "Are you sure you want to reload '%s'?"
+msgstr "Êtes-vous sur de vouloir recharger '%s' ?"
+
+msgid "Armenian"
+msgstr "Arménien"
+
+msgid "Arrow characters"
+msgstr "Caractères fléchés"
+
+msgid "As _HTML"
+msgstr "En _HTML"
+
+msgid "As _LaTeX"
+msgstr "En _LaTeX"
+
+msgid "Auto Save"
+msgstr "Enregistrement automatique"
+
+msgid "Auto save _interval:"
+msgstr "_Intervalle de sauvegarde automatique :"
+
+msgid "Auto-close curly bracket when typing an opening one"
+msgstr ""
+"Ferme automatiquement les accolades lors de l'écriture d'une accolade "
+"ouvrante"
+
+msgid "Auto-close double quote when typing an opening one"
+msgstr ""
+"Ferme automatiquement les guillemets doubles lors de l'écriture d'un "
+"guillemet ouvrant"
+
+msgid "Auto-close parenthesis when typing an opening one"
+msgstr ""
+"Ferme automatiquement les parenthèses lors de l'écriture d'une parenthèse "
+"ouvrante"
+
+msgid "Auto-close simple quote when typing an opening one"
+msgstr ""
+"Ferme automatiquement les guillemets simples lors de l'écriture d'un "
+"guillemet ouvrant"
+
+msgid "Auto-close square-bracket when typing an opening one"
+msgstr ""
+"Ferme automatiquement les crochets lors de l'écriture d'un crochet ouvrant"
+
+msgid "Auto-focus widgets (focus follows mouse)"
+msgstr "Auto focus des fenêtres (le focus suit la souris)"
+
+msgid "Auto-indent mode:"
+msgstr "Mode d'indentation automatique :"
+
+msgid "Autocomplete all words in document"
+msgstr "Compléter automatiquement tous les mots du document"
+
+msgid "Autocomplete symbols"
+msgstr "Compléter automatiquement les symboles"
+
+msgid "Automatic completion and closing of XML tags (includes HTML tags)"
+msgstr ""
+"Complétion et fermeture automatique des balises XML ouvertes (cela inclut "
+"les balises HTML)"
+
+msgid ""
+"Automatic completion of known symbols in open files (function names, global "
+"variables, ...)"
+msgstr ""
+"Complétion automatique des symboles connus dans les fichiers ouverts (noms "
+"des fonctions, variables globales...)"
+
+msgid "Automatic continuation of multi-line comments"
+msgstr "Continuation automatique des commentaires multi-lignes"
+
+msgid "Autosave: Saved %d file automatically."
+msgid_plural "Autosave: Saved %d files automatically."
+msgstr[0] "Sauvegarde automatique : %d fichier sauvegardé automatiquement."
+msgstr[1] "Sauvegarde automatique : %d fichiers sauvegardés automatiquement."
+
+msgid "Available Items"
+msgstr "Outils disponibles"
+
+msgid "Background"
+msgstr "Fond"
+
+msgid "Background color:"
+msgstr "Couleur de fond :"
+
+msgid "Backup Copy"
+msgstr "Copie de sauvegarde"
+
+msgid "Backup Copy: Directory could not be created (%s)."
+msgstr "Copie de sauvegarde : le dossier n'a pu être créé (%s)."
+
+msgid "Backup Copy: File could not be read (%s)."
+msgstr "Copie de sauvegarde : le fichier n'a pu être lu (%s)."
+
+msgid "Backup Copy: File could not be saved (%s)."
+msgstr "Copie de sauvegarde : le fichier n'a pu être enregistré (%s)."
+
+msgid "Backup directory does not exist or is not writable."
+msgstr ""
+"Le dossier de sauvegarde n'existe pas ou n'a pas de permission d'écriture."
+
+msgid "Bad regex for filetype %s: %s"
+msgstr "Mauvaise expression régulière pour le type de fichier %s : %s"
+
+msgid "Bad regex: %s"
+msgstr "Mauvaise expression régulière : %s"
+
+msgid "Baltic"
+msgstr "Baltique"
+
+msgid "Base GType:"
+msgstr "GType de base :"
+
+msgid "Base class:"
+msgstr "Classe de base :"
+
+msgid ""
+"Base directory of all files that make up the project. This can be a new "
+"path, or an existing directory tree. You can use paths relative to the "
+"project filename."
+msgstr ""
+"Dossier de base pour tous les fichiers du projet. Cela peut être un nouveau "
+"chemin, ou un dossier existant. Vous pouvez utiliser des chemins relatifs au "
+"nom du projet."
+
+msgid "Base header:"
+msgstr "Header de base :"
+
+msgid "Base path:"
+msgstr "Dossier de base :"
+
+msgid "Base source:"
+msgstr "Source de base :"
+
+msgid "Basic"
+msgstr "Basique"
+
+msgid "Be verbose"
+msgstr "Mode verbeux"
+
+msgid "Beep on errors or when compilation has finished"
+msgstr "Émettre un bip sur les erreurs ou lorsque la compilation est terminée"
+
+msgid "Blocks"
+msgstr "Blocs"
+
+msgid "Bottom"
+msgstr "Bas"
+
+msgid "Browser:"
+msgstr "Navigateur :"
+
+msgid "Build"
+msgstr "Construire"
+
+msgid "Build options"
+msgstr "Options de construction"
+
+msgid "Build the current file"
+msgstr "Construit le fichier courant"
+
+msgid "Build the current file with Make and the default target"
+msgstr "Construit le fichier courant avec l'outil make et la cible par défaut"
+
+msgid "Build the current file with Make and the specified target"
+msgstr "Construit le fichier courant avec l'outil make et la cible spécifiée"
+
+msgid "Bulk replacement of special chars"
+msgstr "Remplacement en masse des caractères spéciaux"
+
+msgid "C Standard Library"
+msgstr "Bibliothèque C standard"
+
+msgid "C++ (C Standard Library)"
+msgstr "C++ (Bibliothèque C standard)"
+
+msgid "C++ STL"
+msgstr "STL C++"
+
+msgid "C++ Standard Library"
+msgstr "Bibliothèque C++ standard"
+
+msgid "C_ase sensitive"
+msgstr "Sensible à la c_asse"
+
+msgid "C_hange"
+msgstr "C_hanger"
+
+msgid "C_lose All"
+msgstr "_Tout fermer"
+
+msgid "C_onfiguration Files"
+msgstr "Fichiers de c_onfiguration"
+
+msgid "C_opy"
+msgstr "C_opier"
+
+msgid "C_reate"
+msgstr "C_réer"
+
+msgid "Calls the View->Toggle All Additional Widgets command"
+msgstr ""
+"Appelle la commande Affichage->Afficher/Cacher toutes les fenêtres "
+"supplémentaires"
+
+msgid "Cannot execute grep tool '%s'; check the path setting in Preferences."
+msgstr ""
+"Impossible d'exécuter l'outil grep '%s'; vérifiez la configuration du chemin "
+"dans les Préférences."
+
+msgid "Cascading StyleSheet"
+msgstr "Feuille de style en cascade"
+
+msgid "Celtic"
+msgstr "Celtique"
+
+msgid "Central European"
+msgstr "Européen central"
+
+msgid "Change _Font"
+msgstr "Changer la _police"
+
+msgid ""
+"Change the directory to the base directory of the currently opened project"
+msgstr ""
+"Changer le répertoire pour le répertoire de base du projet actuellement "
+"ouvert"
+
+msgid "Chapter"
+msgstr "Chapitre"
+
+msgid "Character"
+msgstr "Caractère"
+
+msgid "Characters to type for autocompletion:"
+msgstr "Caractères à taper pour la complétion automatique :"
+
+msgid "Characters:"
+msgstr "Caractères :"
+
+msgid "Chinese Simplified"
+msgstr "Chinois simplifié"
+
+msgid "Chinese Traditional"
+msgstr "Chinois traditionnel"
+
+msgid "Choose Project Base Path"
+msgstr "Choisir le dossier de base du projet"
+
+msgid "Choose Project Filename"
+msgstr "Choix du nom du fichier du projet"
+
+msgid ""
+"Choose a special character from the list below and double click on it or use "
+"the button to insert it at the current cursor position."
+msgstr ""
+"Choisissez un caractère spécial depuis la liste ici-bas et double-cliquez "
+"dessus ou utilisez le bouton pour l'insérer à la position actuelle du "
+"curseur."
+
+msgid "Choose font"
+msgstr "Choisir la police"
+
+msgid "Choose more build actions"
+msgstr "Choisir plus d'actions de construction"
+
+msgid "Choose which plugins should be loaded at startup:"
+msgstr "Choisissez les plugins à charger au démarrage :"
+
+msgid "Cl_ear"
+msgstr "_Effacer"
+
+msgid "Class"
+msgstr "Classe"
+
+msgid "Class Builder"
+msgstr "Créateur de Classe"
+
+msgid "Class name:"
+msgstr "Nom de la classe :"
+
+msgid "Classes"
+msgstr "Classes"
+
+msgid "Clear"
+msgstr "Effacer"
+
+msgid "Clear the filter"
+msgstr "Effacer le filtre"
+
+msgid "Click to set menu item label"
+msgstr "Cliquez pour définir l'étiquette de l'élément du menu"
+
+msgid "Clipboard"
+msgstr "Presse-papiers"
+
+msgid "Close"
+msgstr "Fermer"
+
+msgid "Close All"
+msgstr "Tout fermer"
+
+msgid "Close Ot_her Documents"
+msgstr "Fermer les _autres fichiers"
+
+msgid "Close _dialog"
+msgstr "Fermer la _fenêtre"
+
+msgid "Close _without saving"
+msgstr "_Fermer sans sauvegarder"
+
+msgid "Close all"
+msgstr "Tout fermer"
+
+msgid "Close all open files"
+msgstr "Ferme tous les fichiers ouverts"
+
+msgid "Close the current file"
+msgstr "Fermer le fichier courant"
+
+msgid "Color Chooser"
+msgstr "Sélecteur de couleur"
+
+msgid "Color:"
+msgstr "Couleur :"
+
+msgid "Column:"
+msgstr "Colonne :"
+
+msgid "Command"
+msgstr "Commande"
+
+msgid "Command:"
+msgstr "Commande :"
+
+msgid "Comment line(s)"
+msgstr "Commenter la(les) ligne(s)"
+
+msgid "Comment toggle marker:"
+msgstr "Marqueur de commentaire :"
+
+msgid "Company name"
+msgstr "Nom de l'entreprise"
+
+msgid "Company:"
+msgstr "Entreprise :"
+
+msgid "Compilation failed."
+msgstr "Compilation échouée."
+
+msgid "Compilation finished successfully."
+msgstr "Compilation terminée avec succès."
+
+msgid "Compile"
+msgstr "Compiler"
+
+msgid "Compile the current file"
+msgstr "Compiler le fichier courant"
+
+msgid "Compile the current file with Make"
+msgstr "Compile le fichier courant avec make"
+
+msgid "Compiler"
+msgstr "Compilateur"
+
+msgid "Complete snippet"
+msgstr "Compléter le snippet"
+
+msgid "Complete word"
+msgstr "Compléter le mot"
+
+msgid "Completion list height:"
+msgstr "Hauteur de la liste de complétion :"
+
+msgid "Completions"
+msgstr "Complétions"
+
+msgid "Config file"
+msgstr "Fichier de Config"
+
+msgid "Configuration directory could not be created (%s)."
+msgstr "Le dossier de configuration n'a pas pu être créé (%s)."
+
+msgid ""
+"Configuration directory could not be created (%s).\n"
+"There could be some problems using Geany without a configuration directory.\n"
+"Start Geany anyway?"
+msgstr ""
+"Le dossier de configuration n'a pas pu être créé (%s).\n"
+"Il peut y avoir des problèmes à l'utilisation de Geany sans dossier de "
+"configuration.\n"
+"Lancer Geany quand même ?"
+
+msgid "Configuration files reloaded."
+msgstr "Fichiers de configuration rechargés."
+
+msgid "Configure Plugins"
+msgstr "Configurer les plugins"
+
+msgid "Confirm exit"
+msgstr "Confirmer la fermeture"
+
+msgid "Constants"
+msgstr "Constantes"
+
+msgid "Conte_xt Action"
+msgstr "Action conte_xtuelle"
+
+msgid "Context Action"
+msgstr "Action contextuelle"
+
+msgid ""
+"Context action command. The currently selected word can be used with %s. It "
+"can appear anywhere in the given command and will be replaced before "
+"execution."
+msgstr ""
+"Commande d'action contextuelle. Le mot sélectionné peut être utilisé avec "
+"%s. Il peut être placé n'importe où dans la commande donnée et sera remplacé "
+"avant exécution."
+
+msgid "Context action:"
+msgstr "Action contextuelle :"
+
+msgid ""
+"Continue automatically multi-line comments in languages like C, C++ and Java "
+"when a new line is entered inside such a comment"
+msgstr ""
+"Continue automatiquement les commentaires multi-lignes dans des langages "
+"tels que C, C++ et Java, quand une nouvelle ligne est entrée dans un tel "
+"commentaire"
+
+msgid "Contributors"
+msgstr "Contributeurs"
+
+msgid "Convert and Set to CR (_Mac)"
+msgstr "Convertir en CR (_Mac)"
+
+msgid "Convert and Set to _CR/LF (Win)"
+msgstr "Convertir en _CR/LF (Win)"
+
+msgid "Convert and Set to _LF (Unix)"
+msgstr "Convertir en _LF (Unix)"
+
+msgid "Copy"
+msgstr "Copier"
+
+msgid "Copy _All"
+msgstr "To_ut copier"
+
+msgid "Copy the current selection"
+msgstr "Copier la sélection courante"
+
+msgid ""
+"Could not change the directory in the VTE because it probably contains a "
+"command."
+msgstr ""
+"Impossible de changer de dossier dans le VTE car il contient probablement "
+"une commande."
+
+msgid "Could not execute configured external command '%s' (%s)."
+msgstr "Impossible d'exécuter la commande extérieure configurée '%s' (%s)."
+
+msgid ""
+"Could not execute the file in the VTE because it probably contains a command."
+msgstr ""
+"Impossible d'exécuter le fichier dans le VTE car il contient probablement "
+"une commande."
+
+msgid "Could not find file '%s' - trying the current document path."
+msgstr ""
+"Impossible de trouver le fichier '%s' - essayez le chemin du document "
+"courant."
+
+msgid "Could not find file '%s'."
+msgstr "Impossible de trouver le fichier '%s'."
+
+msgid ""
+"Could not find terminal \"%s\" (check path for Terminal tool setting in "
+"Preferences)"
+msgstr ""
+"Impossible de trouver le terminal \"%s\" (vérifiez le chemin vers l'outil "
+"Terminal dans les préférences)"
+
+msgid "Could not load tags file '%s'."
+msgstr "Impossible de charger le fichier de tags '%s'."
+
+msgid "Could not open directory (%s)"
+msgstr "Impossible d'ouvrir le dossier (%s)"
+
+msgid "Could not open file %s (%s)"
+msgstr "Impossible d'ouvrir le fichier %s (%s)"
+
+msgid "Create Cla_ss"
+msgstr "Créer une cla_sse"
+
+msgid "Create Class"
+msgstr "Créer une classe"
+
+msgid "Create a new file"
+msgstr "Créer un nouveau fichier"
+
+msgid "Create a new file from a template"
+msgstr "Créer un nouveau fichier depuis un modèle"
+
+msgid "Create constructor"
+msgstr "Créer un constructeur"
+
+msgid "Create destructor"
+msgstr "Créer un destructeur"
+
+msgid "Create the project's base path directory?"
+msgstr "Créer le dossier de base du projet ?"
+
+msgid "Creates source files for new class types."
+msgstr "Crée des fichiers sources pour une nouvelle classe."
+
+msgid "Credits"
+msgstr "Crédits"
+
+msgid "Curly brackets { }"
+msgstr "Accolades { }"
+
+msgid "Current chars"
+msgstr "Caractères courants"
+
+msgid "Cursor blinks"
+msgstr "Faire clignoter le curseur"
+
+msgid "Custom"
+msgstr "Personnalisé"
+
+msgid "Custom Date Format"
+msgstr "Format de date personnalisé"
+
+msgid "Custom Text"
+msgstr "Texte personnalisé"
+
+msgid "Custom command failed: %s"
+msgstr "La commande personnalisée a échoué : %s"
+
+msgid "Customize Toolbar"
+msgstr "Personnaliser la barre d'outils"
+
+msgid "Cut"
+msgstr "Couper"
+
+msgid "Cut the current selection"
+msgstr "Couper la sélection courante"
+
+msgid "Cyrillic"
+msgstr "Cyrillique"
+
+msgid "Cyrillic/Russian"
+msgstr "Cyrillique/Russe"
+
+msgid "Cyrillic/Ukrainian"
+msgstr "Cyrillique/Ukrainien"
+
+msgid "Date & Time:"
+msgstr "Date et heure :"
+
+msgid "Date format string could not be converted (possibly too long)."
+msgstr "Le format de date n'a pas pu être converti (peut-être trop long)."
+
+msgid "Date format:"
+msgstr "Format de date :"
+
+msgid "Date/_Time format for backup files (\"man strftime\" for details):"
+msgstr ""
+"_Format de date / heure pour les fichiers sauvegardés (faire \"man strftime"
+"\" pour plus de détails) :"
+
+msgid "Date:"
+msgstr "Date :"
+
+msgid "Debug Messages"
+msgstr "Messages de débogage"
+
+msgid "Decrease indent"
+msgstr "Diminuer l'indentation"
+
+msgid "Decrease indent by one space"
+msgstr "Diminuer l'indentation d'une espace"
+
+msgid "Decrease indentation"
+msgstr "Diminuer l'indentation"
+
+msgid "Default encoding (existing non-Unicode files):"
+msgstr "Encodage par défaut (fichiers existants non-Unicode) :"
+
+msgid "Default encoding (new files):"
+msgstr "Encodage par défaut (nouveaux fichiers) :"
+
+msgid "Default end of line characters:"
+msgstr "Caractères de fin de ligne par défaut :"
+
+msgid "Defines"
+msgstr "Définitions"
+
+msgid ""
+"Defines whether to use the native Windows File Open/Save dialogs or whether "
+"to use the GTK default dialogs"
+msgstr ""
+"Utiliser ou non la boite de dialogue Windows d'ouverture/sauvegarde des "
+"fichiers ou la boite de dialogue GTK"
+
+msgid "Definition of \"%s\" not found."
+msgstr "Définition de \"%s\" non trouvée."
+
+msgid "Delete the current selection"
+msgstr "Supprimer la sélection courante"
+
+msgid "Delete to line end"
+msgstr "Effacer jusqu'à la fin de la ligne"
+
+msgid "Description:"
+msgstr "Description :"
+
+msgid "Detect by file extension"
+msgstr "Détecter depuis l'extension du fichier"
+
+msgid "Detect from file"
+msgstr "Détecter depuis le fichier"
+
+msgid "Developer:"
+msgstr "Développeur :"
+
+msgid "Developers"
+msgstr "Développeurs"
+
+msgid "Did not send document %s to the printing subsystem."
+msgstr "Le document %s n'a pas été envoyé au sous-système d'impression."
+
+msgid "Directory _levels to include in the backup destination:"
+msgstr "_Niveaux de dossiers à inclure dans la sauvegarde :"
+
+msgid "Disable Drag and Drop"
+msgstr "Désactiver le glisser-déposer"
+
+msgid ""
+"Disable drag and drop completely in the editor window so you can't drag and "
+"drop any selections within or outside of the editor window"
+msgstr ""
+"Désactiver complètement le glisser-déposer dans la fenêtre d'édition pour "
+"éviter de pouvoir glisser-déposer toute sélection à l'intérieur ou "
+"l'extérieur de la fenêtre d'édition"
+
+msgid "Disable menu shortcut key (F10 by default)"
+msgstr "Désactiver le raccourci clavier du menu (F10 par défaut)"
+
+msgid "Disable this option to keep the dialog open"
+msgstr "Désactivez cette option pour laisser la fenêtre ouverte"
+
+msgid "Disabled"
+msgstr "Désactivé"
+
+msgid "Disk check timeout:"
+msgstr "Intervalle de vérification du disque :"
+
+msgid "Display"
+msgstr "Affichage"
+
+msgid "Display height in rows for the autocompletion list"
+msgstr "Nombre de lignes à afficher dans la liste de complétion automatique"
+
+msgid "Display:"
+msgstr "Affichage :"
+
+msgid "Displayed Items"
+msgstr "Outils affichés"
+
+msgid "Do not show virtual spaces"
+msgstr "Ne pas afficher les espaces virtuels"
+
+msgid "Do you really want to quit?"
+msgstr "Voulez-vous réellement quitter ?"
+
+msgid "Do you want to close it before proceeding?"
+msgstr "Voulez-vous le fermer avant de continuer ?"
+
+msgid "Do you want to reload it?"
+msgstr "Voulez-vous le recharger ?"
+
+msgid "Do you want to save it before closing?"
+msgstr "Voulez-vous l'enregistrer avant la fermeture ?"
+
+msgid "Document"
+msgstr "Document"
+
+msgid "Document %s was sent to the printing subsystem."
+msgstr "Le document %s a été envoyé au sous-système d'impression."
+
+msgid "Document Setup"
+msgstr "Mise en forme du document"
+
+msgid "Document successfully exported as '%s'."
+msgstr "Document exporté avec succès vers '%s'."
+
+msgid "Documents"
+msgstr "Documents"
+
+msgid "Don't load auto completion data (see documentation)"
+msgstr ""
+"Ne pas charger les données de complétion automatique (voir la documentation)"
+
+msgid "Don't load plugins"
+msgstr "Ne pas charger les plugins"
+
+msgid "Don't load terminal support"
+msgstr "Ne pas charger le support du terminal"
+
+msgid "Don't load the previous session's files"
+msgstr "Ne pas charger les fichiers des sessions précédentes"
+
+msgid "Don't open files in a running instance, force opening a new instance"
+msgstr ""
+"Ne pas ouvrir les fichiers dans l'instance courante, forcer l'ouverture dans "
+"une nouvelle instance"
+
+msgid "Don't preprocess C/C++ files when generating tags"
+msgstr ""
+"Ne pas utiliser le préprocesseur lors de la génération de tags pour les "
+"fichiers C/C++"
+
+msgid ""
+"Don't show generated object files in the file browser, this includes *.o, *."
+"obj. *.so, *.dll, *.a, *.lib"
+msgstr ""
+"Ne pas afficher les fichiers objets générés dans le gestionnaire de fichier, "
+"ceci incluant *.o, *.obj. *.so, *.dll, *.a, *.lib"
+
+msgid "Don't show message window at startup"
+msgstr "Ne pas afficher la fenêtre de message au démarrage"
+
+msgid "Don't use run script"
+msgstr "Ne pas utiliser le script de lancement"
+
+msgid ""
+"Don't use the simple run script which is usually used to display the exit "
+"status of the executed program"
+msgstr ""
+"Ne pas utiliser le script de lancement utilisé habituellement pour afficher "
+"le statut de sortie du programme exécuté"
+
+msgid "Double quotes \" \""
+msgstr "Guillemets doubles \" \""
+
+msgid "Double-clicking hides all additional widgets"
+msgstr "Un double-clic cache les fenêtres supplémentaires"
+
+msgid "Drop rest of word on completion"
+msgstr "Supprimer le reste du mot lors de la complétion"
+
+msgid "E_ncoding:"
+msgstr "E_ncodage :"
+
+msgid "E_xtra options:"
+msgstr "_Options supplémentaires :"
+
+msgid "East _Asian"
+msgstr "_Asiatique de l'est"
+
+msgid "Editor"
+msgstr "Éditeur"
+
+msgid "Editor:"
+msgstr "Éditeur :"
+
+msgid "Enable \"smart\" home key"
+msgstr "Activer la touche home \"intelligente\""
+
+msgid "Enable folding"
+msgstr "Activer le pliage"
+
+msgid "Enable newline to strip the trailing spaces on the previous line"
+msgstr ""
+"Autoriser le retour à la ligne à supprimer les espaces de fin de la ligne "
+"précédente"
+
+msgid "Enable plugin support"
+msgstr "Activer le support des plugins"
+
+msgid "Enabled"
+msgstr "Activé"
+
+msgid "Ensure new line at file end"
+msgstr "Nouvelle ligne à la fin du fichier"
+
+msgid "Ensures that at the end of the file is a new line"
+msgstr "Garantit que la dernière ligne du fichier est une nouvelle ligne"
+
+msgid "Enter Tab Width"
+msgstr "Largeur des tabulations"
+
+msgid "Enter custom text here, all entered text is appended to the command."
+msgstr ""
+"Entrez votre texte personnalisé ici, tout texte entré ici ajouté à la "
+"commande."
+
+msgid ""
+"Enter here a custom date and time format. You can use any conversion "
+"specifiers which can be used with the ANSI C strftime function."
+msgstr ""
+"Entrez ici un format de date et d'heure personnalisé. Vous pouvez utiliser "
+"tous les spécificateurs de conversion qui peuvent être utilisés avec la "
+"fonction C ANSI strftime."
+
+msgid "Enter the amount of spaces which should be replaced by a tab character."
+msgstr "Entrer le nombre d'espaces à remplacer par une tabulation."
+
+msgid "Enter the line you want to go to:"
+msgstr "Entrez le numéro de la ligne à laquelle vous voulez vous rendre :"
+
+msgid "Enter tool paths below. Tools you do not need can be left blank."
+msgstr ""
+"Entrer les chemins vers les outils ici. Les chemins vers les outils dont "
+"vous n'avez pas besoin peuvent être laissés vides."
+
+msgid "Entities"
+msgstr "Entités"
+
+msgid "Environment"
+msgstr "Environment"
+
+msgid "Error"
+msgstr "Erreur"
+
+msgid "Error Regular Expression:"
+msgstr "Expression régulière pour les erreurs :"
+
+msgid ""
+"Error message: %s\n"
+"The error occurred at \"%s\" (line: %d, column: %d)."
+msgstr ""
+"Message d'erreur : %s\n"
+"L'erreur s'est produite à \"%s\" (ligne : %d, colonne : %d)."
+
+msgid "Error message: %s."
+msgstr "Message d'erreur : %s."
+
+msgid "Error renaming file."
+msgstr "Erreur lors du renommage du fichier."
+
+msgid "Error saving file (%s)."
+msgstr "Erreur lors de l'enregistrement du fichier (%s)."
+
+msgid "Error saving file."
+msgstr "Erreur lors de l'enregistrement du fichier."
+
+msgid "Events"
+msgstr "Évènements"
+
+msgid ""
+"Example:\n"
+"CFLAGS=`pkg-config gtk+-2.0 --cflags` %s -g gtk2.c.tags /usr/include/gtk-2.0/"
+"gtk/gtk.h\n"
+msgstr ""
+"Exemple : \n"
+"CFLAGS=`pkg-config gtk+-2.0 --cflags` %s -g gtk2.c.tags /usr/include/gtk-2.0/"
+"gtk/gtk.h\n"
+
+msgid "Executables"
+msgstr "Exécutables"
+
+msgid "Execute Commands"
+msgstr "Commandes d'exécution"
+
+msgid "Execute programs in VTE"
+msgstr "Exécuter les programmes dans le VTE"
+
+msgid "Execute:"
+msgstr "Exécuter :"
+
+msgid ""
+"Explicitly defines a filetype for the file, if it would not be detected by "
+"filename extension.\n"
+"Note if you choose multiple files, they will all be opened with the chosen "
+"filetype."
+msgstr ""
+"Définit explicitement un type de fichier pour ce fichier, s'il n'est pas "
+"détecté par l'extension du nom de fichier.\n"
+"Notez que si vous choisissez plusieurs fichier, ils seront tous ouverts avec "
+"le type de fichier choisi."
+
+msgid ""
+"Explicitly defines an encoding for the file, if it would not be detected. "
+"This is useful when you know that the encoding of a file cannot be detected "
+"correctly by Geany.\n"
+"Note if you choose multiple files, they will all be opened with the chosen "
+"encoding."
+msgstr ""
+"Définit explicitement un encodage pour le fichier, si celui-ci ne serait pas "
+"détecté. Cela est utile lorsque vous savez que l'encodage d'un fichier ne "
+"peut pas être détecté correctement par Geany.\n"
+"Notez que si vous choisissez plusieurs fichiers, ils seront tous ouverts "
+"avec l'encodage choisi."
+
+msgid "Export"
+msgstr "Exporter"
+
+msgid "Export File"
+msgstr "Exporter un fichier"
+
+msgid "Exports the current file into different formats."
+msgstr "Exporte le fichier courant vers différents formats."
+
+msgid "External open command:"
+msgstr "Commande d'ouverture extérieure :"
+
+msgid "Extra plugin path:"
+msgstr "Répertoire de plugin supplémentaire :"
+
+msgid "Failed to change the working directory to \"%s\""
+msgstr "Impossible de changer le dossier de travail pour \"%s\""
+
+msgid "Failed to create tags file, perhaps because no tags were found.\n"
+msgstr ""
+"Échec à la création du fichier de tags, probablement à cause de tags "
+"introuvables.\n"
+
+msgid "Failed to execute \"%s\" (start-script could not be created)"
+msgstr ""
+"Impossible d'exécuter \"%s\" (le script de lancement n'a pas pu être créé)"
+
+msgid "Failed to load one or more session files."
+msgstr "Impossible de charger un ou plusieurs fichiers de session."
+
+msgid "Features"
+msgstr "Fonctionnalités"
+
+msgid "File"
+msgstr "Fichier"
+
+msgid "File \"%s\" was not found on disk! Try to resave the file?"
+msgstr ""
+"Le fichier \"%s\" n'a pu être trouvé sur le disque ! Essayer d'enregistrer "
+"le fichier à nouveau ?"
+
+msgid "File %s closed."
+msgstr "Fichier %s fermé."
+
+msgid "File %s opened(%d%s)."
+msgstr "Fichier %s ouvert (%d%s)."
+
+msgid "File %s printed."
+msgstr "Le fichier %s a été imprimé."
+
+msgid "File %s reloaded."
+msgstr "Fichier %s rechargé."
+
+msgid "File %s saved."
+msgstr "Fichier %s enregistré."
+
+msgid "File '%s' could not be written (%s)."
+msgstr "Le fichier '%s' n'a pu être écrit (%s)."
+
+msgid "File Browser"
+msgstr "Navigateur de fichier"
+
+msgid "File patterns:"
+msgstr "Modèles de fichier :"
+
+msgid "File tabs will be placed on the left of the notebook"
+msgstr ""
+"Les nouveaux onglets de fichier seront placés à droite de la liste des "
+"onglets"
+
+msgid "File tabs will be placed on the right of the notebook"
+msgstr ""
+"Les nouveaux onglets de fichier seront placés à gauche de la liste des "
+"onglets"
+
+msgid "Filename already exists!"
+msgstr "Le nom de fichier existe déjà !"
+
+msgid "Filename of libvte.so"
+msgstr "Nom du fichier libvte.so"
+
+msgid "Filename:"
+msgstr "Nom de fichier :"
+
+msgid "Files"
+msgstr "Fichiers"
+
+msgid "Filter your files with usual wildcards"
+msgstr "Filtre vos fichiers avec vos wildcards habituelles"
+
+msgid "Filter:"
+msgstr "Filtre :"
+
+msgid "Find"
+msgstr "Rechercher"
+
+msgid "Find Document Usage"
+msgstr "Rechercher dans le document"
+
+msgid "Find Next"
+msgstr "Rechercher le suivant"
+
+msgid "Find Next Selection"
+msgstr "Rechercher la sélection"
+
+msgid "Find Pre_vious Selected"
+msgstr "Rechercher la sélection _vers l'arrière"
+
+msgid "Find Previous"
+msgstr "Rechercher le précédent"
+
+msgid "Find Previous Selection"
+msgstr "Rechercher la sélection vers l'arrière"
+
+msgid "Find Usage"
+msgstr "Utiliser la recherche"
+
+msgid "Find _Document Usage"
+msgstr "Rechercher dans le _document"
+
+msgid "Find _Next"
+msgstr "Rechercher le suiva_nt"
+
+msgid "Find _Previous"
+msgstr "Re_chercher le précédent"
+
+msgid "Find _Selected"
+msgstr "Rechercher la _sélection"
+
+msgid "Find _Usage"
+msgstr "_Rechercher dans tous les documents"
+
+msgid "Find in F_iles"
+msgstr "Rechercher dans les f_ichiers"
+
+msgid "Find in Files"
+msgstr "Rechercher dans les fichiers"
+
+msgid "Find the entered text in the current file"
+msgstr "Rechercher le texte entré dans le fichier courant"
+
+msgid "Fixed s_trings"
+msgstr "Chaînes _fixes"
+
+msgid "Focus"
+msgstr "Focus"
+
+msgid "Focus File List"
+msgstr "Focus sur la liste des fichiers"
+
+msgid "Focus Path Entry"
+msgstr "Focus sur le chemin"
+
+msgid "Fold all"
+msgstr "Tout plier"
+
+msgid ""
+"Fold or unfold all children of a fold point. By pressing the Shift key while "
+"clicking on a fold symbol the contrary behavior is used."
+msgstr ""
+"Plier ou déplier tous les éléments fils d'un point de pliage. En appuyant "
+"sur la touche Shift lors d'un clic sur un symbole de repli le comportement "
+"inverse se produit."
+
+msgid "Fold/unfold all children of a fold point"
+msgstr "Déplier/Replier tous les éléments fils d'un point de pliage"
+
+msgid "Follow the path of the current file"
+msgstr "Suivre le chemin du fichier courant"
+
+msgid "Font updated (%s)."
+msgstr "Police mise à jour (%s)."
+
+msgid "Font:"
+msgstr "Police de caractères :"
+
+msgid "Foreground color:"
+msgstr "Couleur de premier plan :"
+
+msgid "Format"
+msgstr "Format"
+
+msgid "Forward declaration \"%s\" not found."
+msgstr "Déclaration suivante de \"%s\" non trouvée."
+
+msgid "Found %d match for \"%s\"."
+msgid_plural "Found %d matches for \"%s\"."
+msgstr[0] "%d correspondances trouvées pour \"%s\"."
+msgstr[1] "%d correspondance trouvée pour \"%s\"."
+
+msgid "Full_screen"
+msgstr "Plein é_cran"
+
+msgid "Fullscreen"
+msgstr "Plein écran"
+
+msgid "Functions"
+msgstr "Fonctions"
+
+msgid "Functions / Procedures"
+msgstr "Fonctions / Procédures"
+
+msgid "Functions / Tasks"
+msgstr "Fonctions / Tâches"
+
+msgid "GTK+ constructor type"
+msgstr "Type de constructeur GTK+"
+
+msgid "Geany"
+msgstr "Geany"
+
+msgid ""
+"Geany looks by default in the global installation path and in the "
+"configuration directory. The path entered here will be searched additionally "
+"for plugins. Leave blank to disable."
+msgstr ""
+"Geany cherche par défaut des plugins dans le répertoire d'installation "
+"global et dans le dossier de configuration. Le chemin entré ici est "
+"également utilisé pour la recherche. Laissez le champ vide pour désactiver "
+"cette fonction."
+
+msgid "Geany needs to move your old configuration directory before starting."
+msgstr ""
+"Geany doit déplacer votre ancien dossier de configuration avant de démarrer."
+
+msgid "Geany project files"
+msgstr "Fichiers de projet Geany"
+
+msgid "Geany tag files (*.tags)"
+msgstr "Fichiers de tags Geany (*.tags)"
+
+msgid ""
+"Geany tried to access the Unix Domain socket of another instance running as "
+"another user.\n"
+"This is a fatal error and Geany will now quit."
+msgstr ""
+"Geany a essayé d'accéder au socket de domaine Unix d'une autre instance d'un "
+"autre utilisateur.\n"
+"Ceci est une erreur fatale et Geany va maintenant fermer."
+
+msgid "General"
+msgstr "Général"
+
+msgid "Generate global tags file (see documentation)"
+msgstr "Générer un fichier de tags global (voir la documentation)"
+
+msgid "Georgian"
+msgstr "Géorgien"
+
+msgid "Gettext translation file"
+msgstr "Fichier de traduction Gettext"
+
+msgid ""
+"Gives the focus automatically to widgets below the mouse cursor. Works for "
+"the main editor widget, the scribble, the toolbar search and goto line "
+"fields and the VTE."
+msgstr ""
+"Donne le focus automatiquement aux fenêtres sous le curseur de la souris. "
+"Fonctionne pour la fenêtre de l'éditeur, les notes, la barre de recherche, "
+"les champs aller à la ligne et le VTE."
+
+msgid "Global"
+msgstr "Global"
+
+msgid "Go to"
+msgstr "Déplacements"
+
+msgid "Go to End of Display Line"
+msgstr "Aller à la fin de la ligne affichée"
+
+msgid "Go to End of Line"
+msgstr "Aller à la fin de la ligne"
+
+msgid "Go to Line"
+msgstr "Aller à la ligne"
+
+msgid "Go to Next Word Part"
+msgstr "Aller à la section de mot suivante"
+
+msgid "Go to Previous Word Part"
+msgstr "Aller à la section de mot précédente"
+
+msgid "Go to Start of Line"
+msgstr "Aller au début de la ligne"
+
+msgid "Go to T_ag Declaration"
+msgstr "Aller à la déclaration du _symbole"
+
+msgid "Go to Tag Declaration"
+msgstr "Aller à la déclaration du symbole"
+
+msgid "Go to Tag Definition"
+msgstr "Aller à la définition du symbole"
+
+msgid "Go to _Tag Definition"
+msgstr "Aller à la définition du s_ymbole"
+
+msgid "Go to matching brace"
+msgstr "Se rendre à l'accolade correspondante"
+
+msgid "Goto"
+msgstr "Aller à"
+
+msgid "Grab Key"
+msgstr "Entrer une touche"
+
+msgid "Greek"
+msgstr "Grec"
+
+msgid "Greek characters"
+msgstr "Caractères grecs"
+
+msgid "Grep:"
+msgstr "Grep :"
+
+msgid "Group:"
+msgstr "Groupe :"
+
+msgid "H1 Headings"
+msgstr "Titres H1"
+
+msgid "H2 Headings"
+msgstr "Titres H2"
+
+msgid "H3 Headings"
+msgstr "Titres H3"
+
+msgid "HTML (name)"
+msgstr "HTML (nom)"
+
+msgid "HTML Characters"
+msgstr "Caractères HTML"
+
+msgid "HTML Replacement"
+msgstr "Remplacement HTML"
+
+msgid "HTML characters"
+msgstr "Caractères HTML"
+
+msgid "H_ide Sidebar"
+msgstr "Cacher la barre _latérale"
+
+msgid "Header file:"
+msgstr "Fichier header :"
+
+msgid "Hebrew"
+msgstr "Hébreu"
+
+msgid "Hebrew Visual"
+msgstr "Hébreu Visuel"
+
+msgid "Help"
+msgstr "Aide"
+
+msgid ""
+"Here you can change keyboard shortcuts for various actions. Select one and "
+"press the Change button to enter a new shortcut, or double click on an "
+"action to edit the string representation of the shortcut directly."
+msgstr ""
+"Vous pouvez ici changer les raccourcis clavier pour diverses actions. "
+"Choisissez une action et appuyez sur le bouton Changer pour entrer un "
+"nouveau raccourci, Ou double-cliquez sur une action pour éditer la chaîne de "
+"caractères représentant le raccourci."
+
+msgid "Hide object files"
+msgstr "Cacher les fichiers objets"
+
+msgid "Home"
+msgstr "Dossier personnel"
+
+msgid ""
+"How often to check for changes to document files on disk, in seconds. Zero "
+"disables checking."
+msgstr ""
+"Intervalle de vérification périodique des modifications des fichiers sur le "
+"disque, en secondes. Zéro signifie qu'aucune vérification péridoque n'est "
+"faite."
+
+msgid "ID Selectors"
+msgstr "Sélecteurs d'ID"
+
+msgid "INS"
+msgstr "INS"
+
+msgid "ISO 8859-1 characters"
+msgstr "Caractères ISO 8859-1"
+
+msgid "ISO C99"
+msgstr "ISO C99"
+
+msgid "I_nsert Comments"
+msgstr "Insérer des co_mmentaires"
+
+msgid "Images _and Text"
+msgstr "Im_ages et texte"
+
+msgid "Implements:"
+msgstr "Implémente :"
+
+msgid "Imports"
+msgstr "Imports"
+
+msgid "In Se_lection"
+msgstr "Dans la sé_lection"
+
+msgid "In Sessi_on"
+msgstr "Dans la sessi_on"
+
+msgid "In_dent Type"
+msgstr "T_ype d'indentation"
+
+msgid "Increase indent"
+msgstr "Augmenter l'indentation"
+
+msgid "Increase indent by one space"
+msgstr "Augmenter l'indentation d'une espace"
+
+msgid "Increase indentation"
+msgstr "Augmenter l'indentation"
+
+msgid "Indentation"
+msgstr "Indentation"
+
+msgid "Info"
+msgstr "Infos"
+
+msgid "Information"
+msgstr "Information"
+
+msgid "Inheritance"
+msgstr "Héritage"
+
+msgid "Initial version:"
+msgstr "Version initiale :"
+
+msgid "Initials of the developer name"
+msgstr "Initiales du nom du développeur"
+
+msgid "Initials:"
+msgstr "Initiales :"
+
+msgid "Insert"
+msgstr "Insérer"
+
+msgid "Insert Dat_e"
+msgstr "Insérer la dat_e"
+
+msgid "Insert File _Header"
+msgstr "Insérer un en-tête de fic_hier"
+
+msgid "Insert Special HTML Characters"
+msgstr "Insérer des caractères HTML spéciaux"
+
+msgid "Insert _BSD License Notice"
+msgstr "Insérer une note _BSD"
+
+msgid "Insert _ChangeLog Entry"
+msgstr "Insérer une entrée de _changelog"
+
+msgid "Insert _Function Description"
+msgstr "Insérer une description de _fonction"
+
+msgid "Insert _GPL Notice"
+msgstr "Insérer une note _GPL"
+
+msgid "Insert _Multiline Comment"
+msgstr "Insérer un commentaire _multilignes"
+
+msgid "Insert date"
+msgstr "Insérer la date"
+
+msgid "Inserts HTML character entities like '&amp;'."
+msgstr "Insérer des entités HTML telles que '&amp;'."
+
+msgid "Instant Save"
+msgstr "Sauvegarde immédiate"
+
+msgid "Integrated Development Environment"
+msgstr "Environnement de Développement Intégré"
+
+msgid "Interface"
+msgstr "Interface"
+
+msgid "Interfaces"
+msgstr "Interfaces"
+
+msgid "Invalid directory for find in files."
+msgstr "Dossier invalide pour la recherche dans les fichiers."
+
+msgid "Invalid filename"
+msgstr "Nom de fichier invalide"
+
+msgid "Invert all colors, by default using white text on a black background"
+msgstr ""
+"Inverser toutes les couleurs, par défaut en utilisant un texte blanc sur "
+"fond noir"
+
+msgid "Invert syntax highlighting colors"
+msgstr "Inverser les couleurs de la coloration syntaxique"
+
+msgid "Invert the sense of matching, to select non-matching lines"
+msgstr ""
+"Inverse le sens des correspondances, pour sélectionner les lignes non "
+"correspondantes"
+
+msgid "Is abstract"
+msgstr "abstraite"
+
+msgid "Is singleton"
+msgstr "singleton"
+
+msgid "Item"
+msgstr "Élément"
+
+msgid "Japanese"
+msgstr "Japonais"
+
+msgid "Jump to the entered line number"
+msgstr "Se rendre à la ligne choisie"
+
+msgid ""
+"Keep the current unsaved document open and open the newly saved file in a "
+"new tab"
+msgstr ""
+"Conserve le document en cours non enregistré et ouvre le nouveau fichier "
+"enregistré dans un nouvel onglet."
+
+msgid "Keybindings"
+msgstr "Raccourcis"
+
+msgid "Keyboard Shortcuts"
+msgstr "Raccourcis clavier"
+
+msgid "Keys"
+msgstr "Clés"
+
+msgid "Korean"
+msgstr "Coréen"
+
+msgid "Label"
+msgstr "Étiquette"
+
+msgid "Labels"
+msgstr "Étiquettes"
+
+msgid "Left"
+msgstr "Gauche"
+
+msgid "License"
+msgstr "Licence"
+
+msgid ""
+"License text could not be found, please visit http://www.gnu.org/licenses/"
+"gpl-2.0.txt to view it online."
+msgstr ""
+"Le texte de la licence n'a pu être trouvé, veuillez visiter http://www.gnu."
+"org/licenses/gpl-2.0.txt pour le consulter en ligne."
+
+msgid "Line"
+msgstr "Ligne"
+
+msgid "Line _Breaking"
+msgstr "_Renvoi à la ligne"
+
+msgid "Line breaking column:"
+msgstr "Colonne de retour à la ligne :"
+
+msgid "Line wrapping"
+msgstr "Renvoi à la ligne"
+
+msgid "Lines:"
+msgstr "Lignes :"
+
+msgid "Load Ta_gs"
+msgstr "Charger les Ta_gs"
+
+msgid "Load Tags"
+msgstr "Charger des tags"
+
+msgid "Load files from the last session"
+msgstr "Charger les fichiers depuis la session précédente"
+
+msgid "Load virtual terminal support"
+msgstr "Charger le support du terminal virtuel"
+
+msgid "Loaded %s tags file '%s'."
+msgstr "Chargement de %s fichiers de tags '%s'."
+
+msgid "MOD"
+msgstr "MOD"
+
+msgid "M_iscellaneous Languages"
+msgstr "Langages D_ivers"
+
+msgid "Mac (CR)"
+msgstr "Mac (CR)"
+
+msgid "Macros"
+msgstr "Macros"
+
+msgid "Mail address:"
+msgstr "Adresse e-mail :"
+
+msgid "Make Custom _Target"
+msgstr "Make Custom _Target"
+
+msgid "Make _Object"
+msgstr "Make _Object"
+
+msgid "Make all"
+msgstr "Make all"
+
+msgid "Make custom target"
+msgstr "Make custom target"
+
+msgid "Make object"
+msgstr "Make object"
+
+msgid "Makefile"
+msgstr "Makefile"
+
+msgid "Mark All"
+msgstr "Tout marquer"
+
+msgid "Mark all matches in the current document"
+msgstr "Marque toutes les correspondances dans le document courant"
+
+msgid "Marks spaces with dots and tabs with arrows"
+msgstr "Marque les espaces avec des points et les tabulations avec des flèches"
+
+msgid "Match braces"
+msgstr "Accolades correspondantes"
+
+msgid "Match from s_tart of word"
+msgstr "Co_rrespondre avec le début du mot"
+
+msgid "Match only a _whole word"
+msgstr "Correspondre _seulement avec un mot entier"
+
+msgid "Mathematical characters"
+msgstr "Caractères mathématiques"
+
+msgid "Max. symbol name suggestions:"
+msgstr "Nombre maximum de suggestions de nom de symbole :"
+
+msgid "Maximum number of entries to display in the autocompletion list"
+msgstr ""
+"Nombre maximum d'entrées à afficher dans la liste de complétion automatique"
+
+msgid "Members"
+msgstr "Membres"
+
+msgid "Message window:"
+msgstr "Fenêtre de message :"
+
+msgid "Messages"
+msgstr "Messages"
+
+msgid "Methods"
+msgstr "Méthodes"
+
+msgid "Miscellaneous"
+msgstr "Divers"
+
+msgid "Miscellaneous characters"
+msgstr "Caractères divers"
+
+msgid "Module"
+msgstr "Module"
+
+msgid "Modules"
+msgstr "Modules"
+
+msgid "Move cursor in snippet"
+msgstr "Déplacer le curseur dans le snippet"
+
+msgid "Move document first"
+msgstr "Déplacer le document en première position"
+
+msgid "Move document last"
+msgstr "Déplacer le document en dernière position"
+
+msgid "Move document left"
+msgstr "Déplacer le document vers la gauche"
+
+msgid "Move document right"
+msgstr "Déplacer le document vers la droite"
+
+msgid "Move it now?"
+msgstr "Le déplacer maintenant ?"
+
+msgid "Move line(s) down"
+msgstr "Déplacer la(les) ligne(s) vers le bas"
+
+msgid "Move line(s) up"
+msgstr "Déplacer la(les) ligne(s) vers le haut"
+
+msgid "Name:"
+msgstr "Nom :"
+
+msgid "Namespace"
+msgstr "Espace de nommage"
+
+msgid "Namespace:"
+msgstr "Espace de nommage :"
+
+msgid "Namespaces"
+msgstr "Espaces de nommage"
+
+msgid "Navigate back a location"
+msgstr "Naviguer en arrière vers une position"
+
+msgid "Navigate forward a location"
+msgstr "Naviguer en avant vers une position"
+
+msgid "New"
+msgstr "Nouveau"
+
+msgid "New (with _Template)"
+msgstr "Nou_veau (selon un modèle)"
+
+msgid "New Project"
+msgstr "Nouveau projet"
+
+msgid "New file \"%s\" opened."
+msgstr "Nouveau fichier \"%s\" ouvert."
+
+msgid "Newline strips trailing spaces"
+msgstr "Un passage à la ligne enlève les espaces de fin de ligne"
+
+msgid "Next Message"
+msgstr "Message suivant"
+
+msgid "Next _Message"
+msgstr "_Message suivant"
+
+msgid "Next error"
+msgstr "Erreur suivante"
+
+msgid "Next to current"
+msgstr "À côté de l'onglet courant"
+
+msgid "No Filetype"
+msgstr "Pas de type de fichier"
+
+msgid "No custom commands defined."
+msgstr "Aucune commande personnalisée définie."
+
+msgid "No matches found for \"%s\"."
+msgstr "Aucune correspondance trouvée pour \"%s\"."
+
+msgid "No matches found."
+msgstr "Pas de correspondances trouvées."
+
+msgid "No more build errors."
+msgstr "Plus d'erreurs de construction."
+
+msgid "No more message items."
+msgstr "Plus d'éléments de messages."
+
+msgid "No plugins available."
+msgstr "Aucun plugin disponible."
+
+msgid "No tags found"
+msgstr "Aucun symbole trouvé"
+
+msgid "No text to find."
+msgstr "Pas de texte à rechercher."
+
+msgid "Non-Filetype Commands"
+msgstr "Commandes sans type de fichier"
+
+msgid "None"
+msgstr "Aucun"
+
+msgid "Nordic"
+msgstr "Nordique"
+
+msgid "Note: Item 2 opens a dialog and appends the response to the command."
+msgstr ""
+"Note : le deuxième élément ouvre une boite de dialogue et ajoute la réponse "
+"à la commande."
+
+msgid "Notebook tab"
+msgstr "Onglets"
+
+msgid "OVR"
+msgstr "OVR"
+
+msgid "Old"
+msgstr "Ancien"
+
+msgid "Only for rectangular selections"
+msgstr "Seulement pour les sélections rectangulaires"
+
+msgid ""
+"Only show virtual spaces beyond the end of lines when drawing a rectangular "
+"selection"
+msgstr ""
+"Affiche les espaces virtuels après les fins de lignes seulement lors d'une "
+"sélection rectangulaire"
+
+msgid "Open"
+msgstr "Ouvrir"
+
+msgid "Open File"
+msgstr "Ouvrir un fichier"
+
+msgid "Open Project"
+msgstr "Ouvrir un projet"
+
+msgid "Open Selected F_ile"
+msgstr "Ou_vrir le fichier sélectionné"
+
+msgid "Open _externally"
+msgstr "Ouvrir à l'_extérieur"
+
+msgid ""
+"Open a color chooser dialog, to interactively pick colors from a palette"
+msgstr ""
+"Ouvre une fenêtre de choix de couleur, pour sélectionner de manière "
+"interactive des couleurs depuis une palette"
+
+msgid "Open a recent file"
+msgstr "Ouvrir un fichier récent"
+
+msgid "Open an existing file"
+msgstr "Ouvrir un fichier existant"
+
+msgid "Open new documents from the command-line"
+msgstr "Ouvrir les nouveaux documents depuis la ligne de commande"
+
+msgid "Open selected file"
+msgstr "Ouvrir le fichier sélectionné"
+
+msgid "Opens at startup the files from the last session"
+msgstr "Ouvre les fichiers de la dernière session au démarrage"
+
+msgid ""
+"Opens the file in read-only mode. If you choose more than one file to open, "
+"all files will be opened read-only."
+msgstr ""
+"Ouvre le fichier en mode lecture seule. Si vous choisissez plus d'un fichier "
+"à ouvrir, tous ces fichiers seront ouverts en lecture seule."
+
+msgid "Options"
+msgstr "Options"
+
+msgid "Other"
+msgstr "Autre"
+
+msgid "Other options to pass to Grep"
+msgstr "Autres options à passer à grep"
+
+msgid "Other:"
+msgstr "Autres :"
+
+msgid "Override Geany keybindings"
+msgstr "Écraser les raccourcis clavier de Geany"
+
+msgid "Override that keybinding?"
+msgstr "Écraser ce raccourci ?"
+
+msgid "Overwrite?"
+msgstr "Écraser ?"
+
+msgid "Owner:"
+msgstr "Propriétaire :"
+
+msgid "P_lugin Preferences"
+msgstr "Préférences des _plugins"
+
+msgid "Pack the toolbar to the main menu to save vertical space"
+msgstr ""
+"Regroupe la barre d'outils avec le menu principal pour gagner de l'espace en "
+"hauteur"
+
+msgid "Package"
+msgstr "Package"
+
+msgid "Page %d of %d"
+msgstr "Page %d sur %d"
+
+msgid "Page Set_up"
+msgstr "_Mise en page"
+
+msgid "Parenthesis ( )"
+msgstr "Parenthèses ( )"
+
+msgid "Passing data and executing custom command: %s"
+msgstr "Envoi de données et exécution de la commande personnalisée : %s"
+
+msgid "Paste"
+msgstr "Coller"
+
+msgid "Paste the contents of the clipboard"
+msgstr "Colle le contenu du presse-papiers"
+
+msgid "Path (and possibly additional arguments) to your favorite browser"
+msgstr ""
+"Chemin (et options supplémentaires si nécessaire) vers votre navigateur "
+"favori"
+
+msgid ""
+"Path to start in when opening or saving files. Must be an absolute path. "
+"Leave blank to use the current working directory."
+msgstr ""
+"Le dossier où commencer lors de l'ouverture ou de l'enregistrement des "
+"fichiers. Entrez un chemin absolu. Laissez vide pour utiliser le dossier de "
+"travail courant."
+
+msgid "Path to start in when opening project files"
+msgstr "Chemin de départ lors de l'ouverture des fichiers de projet"
+
+msgid "Path to the command for printing files (use %f for the filename)"
+msgstr ""
+"Chemin vers la commande à utiliser pour imprimer les fichiers (utiliser %f "
+"pour le nom du fichier)"
+
+msgid "Placement of new file tabs:"
+msgstr "Placement des nouveaux onglets de fichier :"
+
+msgid "Please set a print command in the preferences dialog first."
+msgstr ""
+"Veuillez d'abord définir une commande d'impression dans la fenêtre des "
+"préférences."
+
+msgid ""
+"Please set the filetype for the current file before using this function."
+msgstr ""
+"Veuillez définir le type du fichier courant avant d'utiliser cette fonction."
+
+msgid "Plugin"
+msgstr "Plugin"
+
+msgid "Plugin configuration directory could not be created."
+msgstr "Le dossier de configuration du plugin n'a pas pu être créé."
+
+msgid ""
+"Plugin: %s %s\n"
+"Description: %s\n"
+"Author(s): %s"
+msgstr ""
+"Plugin : %s %s\n"
+"Description : %s\n"
+"Auteur(s) : %s"
+
+msgid "Plugins"
+msgstr "Plugins"
+
+msgid "Position:"
+msgstr "Position :"
+
+msgid "Pr_evious Message"
+msgstr "Message _précédent"
+
+msgid "Preference_s"
+msgstr "Préférence_s"
+
+msgid "Preferences"
+msgstr "Préférences"
+
+msgid "Press the combination of the keys you want to use for \"%s\"."
+msgstr ""
+"Tapez la combinaison de touches que vous souhaitez utiliser pour \"%s\""
+
+msgid ""
+"Pressing tab/shift-tab indents/unindents instead of inserting a tab character"
+msgstr ""
+"Appuyer sur Tab/Shift-Tab augmente/diminue l'indentation au lieu d'insérer "
+"une tabulation"
+
+msgid "Previous Message"
+msgstr "Message précédent"
+
+msgid "Previous Translators"
+msgstr "Traducteurs précédents"
+
+msgid "Previous error"
+msgstr "Erreur précédente"
+
+msgid "Print"
+msgstr "Imprimer"
+
+msgid "Print Geany's installation prefix"
+msgstr "Imprime le préfixe de l'installation de Geany"
+
+msgid "Print document"
+msgstr "Imprimer le document"
+
+msgid "Print internal filetype names"
+msgstr "Afficher les types de fichier internes"
+
+msgid "Print line numbers"
+msgstr "Afficher les numéros de ligne"
+
+msgid "Print only the basename (without the path) of the printed file"
+msgstr "Imprimer seulement le nom (sans le chemin) du fichier à imprimer"
+
+msgid "Print only the basename(without the path) of the printed file"
+msgstr ""
+"Imprimer seulement le nom de base (sans le chemin) du fichier à imprimer"
+
+msgid "Print page header"
+msgstr "Afficher les en-têtes des pages"
+
+msgid "Print page numbers"
+msgstr "Afficher les numéros de page"
+
+msgid "Printing"
+msgstr "Imprimer"
+
+msgid "Printing of \"%s\" failed (return code: %s)."
+msgstr "L'impression de \"%s\" a échoué (code de retour : %s)."
+
+msgid "Printing of %s failed (%s)."
+msgstr "L'impression de %s a échoué (%s)."
+
+msgid ""
+"Prints a vertical line in the editor window at the given cursor position "
+"(see below)"
+msgstr ""
+"Affiche une ligne verticale dans la fenêtre de l'éditeur à la position "
+"donnée (voir plus bas)"
+
+msgid "Procedures"
+msgstr "Procédures"
+
+msgid "Process could not be stopped (%s)."
+msgstr "Le processus n'a pas pu être stoppé (%s)."
+
+msgid "Process failed (%s)"
+msgstr "Processus échoué (%s)"
+
+msgid "Process failed, no working directory"
+msgstr "Échec du processus, pas de dossier de travail"
+
+msgid "Processes / Components"
+msgstr "Processus / Composants"
+
+msgid "Project"
+msgstr "Projet"
+
+msgid "Project \"%s\" closed."
+msgstr "Projet \"%s\" fermé."
+
+msgid "Project \"%s\" created."
+msgstr "Projet  \"%s\" créé."
+
+msgid "Project \"%s\" opened."
+msgstr "Projet  \"%s\" ouvert."
+
+msgid "Project \"%s\" saved."
+msgstr "Projet \"%s\" enregistré."
+
+msgid "Project Properties"
+msgstr "Propriétés du projet"
+
+msgid "Project base directory could not be created (%s)."
+msgstr "Le dossier de base du projet n'a pu être créé (%s)."
+
+msgid "Project file \"%s\" could not be loaded."
+msgstr "Le fichier de projet \"%s\" n'a pu être chargé."
+
+msgid "Project file could not be written (%s)."
+msgstr "Le fichier de projet n'a pas pu être écrit (%s)."
+
+msgid "Project files"
+msgstr "Fichiers de projet"
+
+msgid "Project files:"
+msgstr "Fichiers de projet :"
+
+msgid "Project properties"
+msgstr "Propriétés du projet"
+
+msgid "Properties"
+msgstr "Propriétés"
+
+msgid "Punctuation characters"
+msgstr "Caractères de ponctuation"
+
+msgid "Question"
+msgstr "Question"
+
+msgid "Quit Geany"
+msgstr "Quitter Geany"
+
+msgid "RO "
+msgstr "RO "
+
+msgid "R_eload As"
+msgstr "R_echarger en tant que"
+
+msgid "R_ename"
+msgstr "R_enommer"
+
+msgid "Range:"
+msgstr "Étendue :"
+
+msgid "Re-open last closed tab"
+msgstr "Rouvrir le dernier onglet fermé"
+
+msgid "Re_place All"
+msgstr "Rempl_acer tout"
+
+msgid "Read _Only"
+msgstr "_Lecture seule"
+
+msgid "Read:"
+msgstr "Lecture :"
+
+msgid "Recent _Files"
+msgstr "_Fichiers récents"
+
+msgid "Recent files list length:"
+msgstr "Longueur de la liste des fichiers récents :"
+
+msgid "Redo"
+msgstr "Refaire"
+
+msgid "Redo the last modification"
+msgstr "Répéter la dernière modification"
+
+msgid "Refresh"
+msgstr "Actualiser"
+
+msgid "Reload file"
+msgstr "Recharger le fichier"
+
+msgid "Reload symbol list"
+msgstr "Recharger la liste des symboles"
+
+msgid "Reload the current file from disk"
+msgstr "Recharger le fichier courant depuis le disque"
+
+msgid "Remove Error Indicators"
+msgstr "Supprimer les indicateurs d'erreurs"
+
+msgid "Remove Error _Indicators"
+msgstr "Supprimer les _indicateurs d'erreurs"
+
+msgid "Remove Markers"
+msgstr "Supprimer les marqueurs"
+
+msgid "Remove _Markers"
+msgstr "Effacer les _marqueurs"
+
+msgid ""
+"Removes all messages from the status bar. The messages are still displayed "
+"in the status messages window."
+msgstr ""
+"Supprime tous les messages de la barre de statut. Les messages sont toujours "
+"affichés dans la fenêtre des messages de statut."
+
+msgid "Removes trailing spaces and tabs and the end of lines"
+msgstr "Enlève les espaces et tabulations restants à la fin des lignes"
+
+msgid ""
+"Renders the font size of the document together with the current zoom level"
+msgstr ""
+"Restitue la taille de police du document en adéquation avec le niveau de "
+"zoom courant"
+
+msgid "Replace"
+msgstr "Remplacer"
+
+msgid "Replace & Fi_nd"
+msgstr "Remplacer et Rec_hercher"
+
+msgid "Replace Spaces b_y Tabs"
+msgstr "Rempla_cer les espaces par des tabulations"
+
+msgid ""
+"Replace \\\\, \\t, \\n, \\r and \\uXXXX (Unicode chararacters) with the "
+"corresponding control characters"
+msgstr ""
+"Remplacer \\\\, \\t, \\n, \\r et \\uXXXX (caractères Unicode) par les "
+"caractères de contrôle correspondants"
+
+msgid "Replace all matches found in the currently selected text"
+msgstr ""
+"Remplacer toutes les correspondances trouvées dans le texte actuellement "
+"sélectionné"
+
+msgid "Replace spaces by tabs"
+msgstr "Remplacer les espaces par des tabulations"
+
+msgid "Replace special characters"
+msgstr "Remplacer les caractères spéciaux"
+
+msgid "Replace tabs by space"
+msgstr "Remplacer les tabulations par des espaces"
+
+msgid "Replace text in the current document"
+msgstr "Remplacer le texte dans le document courant"
+
+msgid "Replace wit_h:"
+msgstr "Rem_placer par :"
+
+msgid "Replaced %u matches in %u documents."
+msgstr "%u correspondances remplacées dans %u documents."
+
+msgid "Replaces all tabs in document by spaces"
+msgstr "Remplace toutes les tabulations du document par des espaces"
+
+msgid "Return a list of open documents in a running Geany instance"
+msgstr ""
+"Renvoie une liste de tous les documents ouverts dans une instance de Geany "
+"en cours d'exécution"
+
+msgid "Right"
+msgstr "Droite"
+
+msgid "Romanian"
+msgstr "Roumain"
+
+msgid "Run"
+msgstr "Exécuter"
+
+msgid "Run or view the current file"
+msgstr "Exécuter ou voir le fichier courant"
+
+msgid ""
+"Run programs in VTE instead of opening a terminal emulation window. Please "
+"note, programs executed in VTE cannot be stopped"
+msgstr ""
+"Lance les programmes dans l'émulateur de terminal virtuel (VTE) au lieu "
+"d'ouvrir une fenêtre d'émulation de terminal. Veuillez noter que les "
+"programmes exécutés dans le VTE ne peuvent pas être stoppés"
+
+msgid "SP"
+msgstr "SP"
+
+msgid "SQL Dump file"
+msgstr "Dump SQL"
+
+msgid "S_ystem Default"
+msgstr "Para_mètres système"
+
+msgid "Sa_ve all open files"
+msgstr "_Enregistrer tous les fichiers ouverts"
+
+msgid "Save"
+msgstr "Enregistrer"
+
+msgid "Save A_ll"
+msgstr "Tout enre_gistrer"
+
+msgid "Save Actions"
+msgstr "Actions d'enregistrement"
+
+msgid "Save All"
+msgstr "Tout enregistrer"
+
+msgid "Save File"
+msgstr "Enregistrer le fichier"
+
+msgid "Save all"
+msgstr "Tout enregistrer"
+
+msgid "Save all open files"
+msgstr "Enregistrer tous les fichiers ouverts"
+
+msgid "Save as"
+msgstr "Enregistrer sous"
+
+msgid "Save only current open _file"
+msgstr "_Enregistrer seulement le fichier ouvert courant"
+
+msgid "Save the current file"
+msgstr "Enregistrer le fichier courant"
+
+msgid "Save the file and rename it"
+msgstr "Enregistre le fichier et le renomme"
+
+msgid "Save window position and geometry"
+msgstr "Enregistrer la position et la géométrie de la fenêtre"
+
+msgid "Saves the window position and geometry and restores it at the start"
+msgstr ""
+"Enregistre la position et la géométrie de la fenêtre et la restaure au "
+"démarrage"
+
+msgid "Scribble"
+msgstr "Notes"
+
+msgid "Scroll down the view by one line"
+msgstr "Faire défiler la vue d'une ligne vers le bas"
+
+msgid "Scroll on keystroke"
+msgstr "Défilement au clavier"
+
+msgid "Scroll on output"
+msgstr "Faire défiler lors d'une sortie"
+
+msgid "Scroll to current line"
+msgstr "Défiler vers la ligne courante"
+
+msgid "Scroll up the view by one line"
+msgstr "Faire défiler la vue d'une ligne vers le haut"
+
+msgid "Scrollback lines:"
+msgstr "Lignes d'historique :"
+
+msgid "Search"
+msgstr "Recherche"
+
+msgid "Search _backwards"
+msgstr "Rechercher vers _l'arrière"
+
+msgid "Search completed with %d match."
+msgid_plural "Search completed with %d matches."
+msgstr[0] "Recherche terminée avec %d correspondance."
+msgstr[1] "Recherche terminée avec %d correspondances."
+
+msgid "Search failed."
+msgstr "Recherche échouée."
+
+msgid "Searching..."
+msgstr "Recherche en cours..."
+
+msgid "Sect1"
+msgstr "Sect1"
+
+msgid "Sect2"
+msgstr "Sect2"
+
+msgid "Sect3"
+msgstr "Sect3"
+
+msgid "Section"
+msgstr "Section"
+
+msgid "Sections"
+msgstr "Sections"
+
+msgid "See grep's manual page for more information"
+msgstr "Voir la page de manuel de grep pour plus d'informations"
+
+msgid "Select"
+msgstr "Sélection"
+
+msgid "Select All"
+msgstr "Tout sélectionner"
+
+msgid "Select Directory"
+msgstr "Selectionner le dossier"
+
+msgid "Select File"
+msgstr "Choisir un fichier"
+
+msgid "Select Folder"
+msgstr "Choisir un dossier"
+
+msgid "Select current word"
+msgstr "Selectionner le mot courant"
+
+msgid ""
+"Select items to be displayed on the toolbar. Items can be reordered by drag "
+"and drop."
+msgstr ""
+"Sélectionnez les éléments à afficher sur la barre d'outils. Les éléments "
+"peuvent être réordonnés par glisser-déposer."
+
+msgid "Select to next word part"
+msgstr "Sélectionner la section de mot suivante"
+
+msgid "Select to previous word part"
+msgstr "Sélectionner la section de mot précédente"
+
+msgid "Send to Custom Command 1"
+msgstr "Envoyer vers la commande personnalisée 1"
+
+msgid "Send to Custom Command 2"
+msgstr "Envoyer vers la commande personnalisée 2"
+
+msgid "Send to Custom Command 3"
+msgstr "Envoyer vers la commande personnalisée 3"
+
+msgid "Separator"
+msgstr "Séparateur"
+
+msgid "Set"
+msgstr "Définir"
+
+msgid "Set Build Commands"
+msgstr "Définir les commandes de construction"
+
+msgid "Set Custom Commands"
+msgstr "Définir les commandes personnalisées"
+
+msgid "Set File_type"
+msgstr "Définir le _type de fichier"
+
+msgid "Set Line E_ndings"
+msgstr "Définir les fi_ns de lignes"
+
+msgid "Set _Encoding"
+msgstr "Définir l'_encodage"
+
+msgid "Set encoding:"
+msgstr "Définir l'encodage :"
+
+msgid "Set filetype:"
+msgstr "Définir le type de fichier :"
+
+msgid ""
+"Set initial column number for the first opened file (useful in conjunction "
+"with --line)"
+msgstr ""
+"Définit la colonne initiale pour le premier fichier ouvert (utile en "
+"association avec --line)"
+
+msgid "Set initial line number for the first opened file"
+msgstr "Définit la ligne initiale pour le premier fichier ouvert"
+
+msgid "Set menu item label"
+msgstr "Définir l'étiquette de l'élément du menu"
+
+msgid "Set path from document"
+msgstr "Définir le chemin depuis le document"
+
+msgid "Set the Build non-filetype working directories to use base path:"
+msgstr ""
+"Utiliser le dossier de base pour les commandes de construction sans type de "
+"fichier :"
+
+msgid ""
+"Set the information to be used in templates. See the documentation for "
+"details."
+msgstr ""
+"Spécifier ici les informations à utiliser dans les modèles. Voir la "
+"documentation pour plus de détails."
+
+msgid ""
+"Set the working directories (on the Build tab) for the non-filetype build "
+"commands to use the base path"
+msgstr ""
+"Définit le dossier de base comme le dossier de travail (du menu "
+"Construction) pour les commandes de construction sans type de fichier"
+
+msgid "Sets the background color of the text in the terminal widget"
+msgstr "Définit la couleur de fond pour le texte du terminal"
+
+msgid "Sets the color of the long line marker"
+msgstr "Définit la couleur du marqueur des longues lignes"
+
+msgid "Sets the default encoding for newly created files"
+msgstr ""
+"Définit le jeu de caractères utilisés par défaut lors de la création de "
+"nouveaux fichiers"
+
+msgid "Sets the default encoding for opening existing non-Unicode files"
+msgstr ""
+"Définit le jeu de caractères utilisé par défaut lors de l'ouverture de "
+"fichiers existants non-Unicode"
+
+msgid "Sets the editor font"
+msgstr "Définit la police de l'éditeur"
+
+msgid "Sets the font for the message window"
+msgstr "Définit la police utilisée pour la fenêtre de message"
+
+msgid "Sets the font for the symbol list"
+msgstr "Définit la police utilisée pour la liste des symboles"
+
+msgid "Sets the font for the terminal widget"
+msgstr "Définit la police du terminal"
+
+msgid "Sets the foreground color of the text in the terminal widget"
+msgstr "Définit la couleur de premier plan pour le texte du terminal"
+
+msgid ""
+"Sets the path to the shell which should be started inside the terminal "
+"emulation"
+msgstr ""
+"Définit le chemin vers le shell qui doit être lancé dans l'émulateur de "
+"terminal"
+
+msgid "Setting %s indentation mode for %s."
+msgstr "Définir le mode d'indentation %s pour %s."
+
+msgid "Settings"
+msgstr "Préférences"
+
+msgid "Shell script file"
+msgstr "Script Shell"
+
+msgid "Shell:"
+msgstr "Shell :"
+
+msgid "Shortcut"
+msgstr "Raccourci"
+
+msgid "Show Color Chooser"
+msgstr "Afficher le sélecteur de couleurs"
+
+msgid "Show Line _Endings"
+msgstr "Afficher les fins d_e lignes"
+
+msgid "Show Message _Window"
+msgstr "Afficher la _fenêtre de messages"
+
+msgid "Show S_ymbol List"
+msgstr "Afficher la liste des s_ymboles"
+
+msgid "Show Side_bar"
+msgstr "Afficher la _barre latérale"
+
+msgid "Show T_oolbar"
+msgstr "Afficher la barre d'ou_tils"
+
+msgid "Show _Document List"
+msgstr "Afficher la liste des _documents"
+
+msgid "Show _Hidden Files"
+msgstr "Afficher les fichiers cac_hés"
+
+msgid "Show _Indentation Guides"
+msgstr "Afficher les guides d'_indentation"
+
+msgid "Show _Line Numbers"
+msgstr "Afficher les numéros de _ligne"
+
+msgid "Show _Markers Margin"
+msgstr "Afficher la marge des _marqueurs"
+
+msgid "Show _Paths"
+msgstr "Afficher les _chemins"
+
+msgid "Show _Toolbar"
+msgstr "Afficher la barre d'ou_tils"
+
+msgid "Show _White Space"
+msgstr "Afficher les e_spaces"
+
+msgid "Show _hidden files"
+msgstr "Afficher les fichiers cac_hés"
+
+msgid "Show calltip"
+msgstr "Afficher la bulle d'aide"
+
+msgid "Show close buttons"
+msgstr "Afficher les boutons de fermeture"
+
+msgid "Show documents list"
+msgstr "Afficher la liste des documents"
+
+msgid "Show editor tabs"
+msgstr "Afficher les onglets de l'éditeur"
+
+msgid "Show hidden files"
+msgstr "Afficher les fichiers cachés"
+
+msgid "Show indentation guides"
+msgstr "Afficher les guides d'indentation"
+
+msgid "Show line endings"
+msgstr "Afficher les fins de lignes"
+
+msgid "Show line numbers"
+msgstr "Afficher les numéros de ligne"
+
+msgid "Show macro list"
+msgstr "Afficher la liste des macros"
+
+msgid "Show markers margin"
+msgstr "Afficher la marge des marqueurs"
+
+msgid "Show sidebar"
+msgstr "Afficher la barre latérale"
+
+msgid "Show status bar"
+msgstr "Afficher la barre d'état"
+
+msgid "Show symbol list"
+msgstr "Afficher la liste des symboles"
+
+msgid "Show the current document"
+msgstr "Afficher le document courant"
+
+msgid "Show the preferences dialog"
+msgstr "Affiche la fenêtre des préférences"
+
+msgid "Show version and exit"
+msgstr "Afficher la version et quitter"
+
+msgid "Show white space"
+msgstr "Afficher les espaces"
+
+msgid "Shows a confirmation dialog on exit"
+msgstr "Affiche une boite de dialogue de confirmation lors de la fermeture"
+
+msgid ""
+"Shows a small cross button in the file tabs to easily close files when "
+"clicking on it (requires restart of Geany)"
+msgstr ""
+"Affiche un petit bouton croix sur les onglets des fichiers pour les fermer "
+"facilement en cliquant dessus (nécessite un redémarrage de Geany)"
+
+msgid "Shows or hides the Line Number margin"
+msgstr "Affiche ou masque la marge des numéros de ligne"
+
+msgid ""
+"Shows or hides the small margin right of the line numbers, which is used to "
+"mark lines"
+msgstr ""
+"Affiche ou masque la petite marge à droite des numéros des lignes, qui est "
+"utilisée pour marquer les lignes"
+
+msgid "Shows small dotted lines to help you to use the right indentation"
+msgstr ""
+"Affiche de petites lignes pointillées pour aider à utiliser la bonne "
+"indentation"
+
+msgid "Shows the line ending character"
+msgstr "Affiche le caractère de fin de ligne"
+
+msgid "Sidebar:"
+msgstr "Barre latérale :"
+
+msgid "Single quotes ' '"
+msgstr "Guillemets simples ' '"
+
+msgid "Singletons"
+msgstr "Singletons"
+
+msgid "Snippet completion"
+msgstr "Complétion des snippets"
+
+msgid ""
+"Some of the many contributors (for a more detailed list, see the file %s):"
+msgstr ""
+"Quelques uns des principaux contributeurs (pour une liste plus détaillé, "
+"voir le fichier %s) :"
+
+msgid "Sort by _Appearance"
+msgstr "Trier par ordre d'_apparition"
+
+msgid "Sort by _Name"
+msgstr "Trier par _nom"
+
+msgid "Source file:"
+msgstr "Fichier source :"
+
+msgid "South European"
+msgstr "Européen du sud "
+
+msgid "Spaces"
+msgstr "Espaces"
+
+msgid "Special Characters"
+msgstr "Caractères spéciaux"
+
+msgid ""
+"Specifies the history in lines, which you can scroll back in the terminal "
+"widget"
+msgstr ""
+"Spécifie le nombre de lignes d'historique que vous pouvez faire défiler en "
+"arrière dans le terminal"
+
+msgid "Specifies the number of files which are stored in the Recent files list"
+msgstr ""
+"Spécifie le nombre de fichiers conservés dans la liste des fichiers récents"
+
+msgid ""
+"Specify a format for the date and time stamp which is added to the page "
+"header on each page. You can use any conversion specifiers which can be used "
+"with the ANSI C strftime function."
+msgstr ""
+"Entrez ici un format de date et d'heure personnalisé qui sera ajouté à l'en-"
+"tête de chaque page. Vous pouvez utiliser tous les spécificateurs de "
+"conversion qui peuvent être utilisés avec la fonction C ANSI strftime."
+
+msgid ""
+"Specify a format for the the {datetime} wildcard. You can use any conversion "
+"specifiers which can be used with the ANSI C strftime function."
+msgstr ""
+"Entrez ici un format de date et d'heure personnalisé. Vous pouvez utiliser "
+"tous les spécificateurs de conversion qui peuvent être utilisés avec la "
+"fonction C ANSI strftime."
+
+msgid ""
+"Specify a format for the the {date} wildcard. You can use any conversion "
+"specifiers which can be used with the ANSI C strftime function."
+msgstr ""
+"Entrez ici un format de date personnalisé. Vous pouvez utiliser tous les "
+"spécificateurs de conversion qui peuvent être utilisés avec la fonction C "
+"ANSI strftime."
+
+msgid ""
+"Specify a format for the the {year} wildcard. You can use any conversion "
+"specifiers which can be used with the ANSI C strftime function."
+msgstr ""
+"Entrez ici un format d'année personnalisé. Vous pouvez utiliser tous les "
+"spécificateurs de conversion qui peuvent être utilisés avec la fonction C "
+"ANSI strftime."
+
+msgid "Split Horizontally"
+msgstr "Diviser horizontalement"
+
+msgid "Split Vertically"
+msgstr "Diviser verticalement"
+
+msgid "Split Window"
+msgstr "Diviser la fenêtre"
+
+msgid "Splits the editor view into two windows."
+msgstr "Diviser  en deux la fenêtre d'édition"
+
+msgid "Square brackets [ ]"
+msgstr "Crochets [ ]"
+
+msgid "Start a new file for each command-line filename that doesn't exist"
+msgstr ""
+"Ouvrir un nouveau fichier pour chaque nom de fichier inexistant spécifié en "
+"ligne de commande"
+
+msgid "Startup"
+msgstr "Démarrage"
+
+msgid "Startup path:"
+msgstr "Dossier de démarrage :"
+
+msgid "Status"
+msgstr "Statut"
+
+msgid "Status messages"
+msgstr "Messages de statut"
+
+msgid "Stop scrolling at last line"
+msgstr "Arrêter le défilement à la dernière ligne"
+
+msgid "Store project file inside the project base directory"
+msgstr "Enregistrer le fichier projet dans le dossier de base du projet"
+
+msgid "Strip trailing spaces and tabs"
+msgstr "Enlever les espaces et tabulations de fin"
+
+msgid "Structs"
+msgstr "Structs"
+
+msgid "Structures"
+msgstr "Structures"
+
+msgid "Subroutines"
+msgstr "Sous-routines"
+
+msgid "Subsection"
+msgstr "Sous-section"
+
+msgid "Subsubsection"
+msgstr "Sous-sous-section"
+
+msgid "Suppress snippet completion"
+msgstr "Supprimer la complétion du snippet"
+
+msgid "Suppress status messages in the status bar"
+msgstr "Supprimer les messages de statut de la barre de statut"
+
+msgid "Switch to Compiler"
+msgstr "Basculer vers le compilateur"
+
+msgid "Switch to Document"
+msgstr "Basculer vers le document"
+
+msgid "Switch to Editor"
+msgstr "Basculer vers l'éditeur"
+
+msgid "Switch to Message Window"
+msgstr "Basculer vers la fenêtre de messages"
+
+msgid "Switch to Messages"
+msgstr "Basculer vers les messages"
+
+msgid "Switch to Scribble"
+msgstr "Basculer vers les notes"
+
+msgid "Switch to Search Bar"
+msgstr "Basculer vers la barre de recherche"
+
+msgid "Switch to Sidebar"
+msgstr "Basculer vers la barre latérale"
+
+msgid "Switch to Sidebar Document List"
+msgstr "Basculer vers la liste des documents de la barre latérale"
+
+msgid "Switch to Sidebar Symbol List"
+msgstr "Basculer vers la liste des symboles de la barre latérale"
+
+msgid "Switch to VTE"
+msgstr "Basculer vers le VTE"
+
+msgid "Switch to last used document"
+msgstr "Basculer vers le dernier document utilisé"
+
+msgid "Switch to left document"
+msgstr "Basculer vers le document de gauche"
+
+msgid "Switch to right document"
+msgstr "Basculer vers le document de droite"
+
+msgid "Switch to status message list at new message"
+msgstr "Se rendre à la liste des messages de statut aux nouveaux messages"
+
+msgid ""
+"Switch to the status message tab (in the notebook window at the bottom) if a "
+"new status message arrives"
+msgstr ""
+"Se rendre à l'onglet des messages de statut (au bas de la fenêtre des "
+"messages) lorsqu'un nouveau message de statut arrive"
+
+msgid "Symbol list:"
+msgstr "Liste des symboles :"
+
+msgid "Symbols"
+msgstr "Symboles"
+
+msgid "System _Default"
+msgstr "Pa_ramètres système"
+
+msgid "T/S"
+msgstr "T/S"
+
+msgid "TAB"
+msgstr "TAB"
+
+msgid "T_abs and Spaces"
+msgstr "Tabulations et _espaces"
+
+msgid "T_oggle Case of Selection"
+msgstr "M_odifier la casse de la sélection"
+
+msgid "Tab key indents"
+msgstr "Indentation par la touche Tab "
+
+msgid "Tabs"
+msgstr "Tabulations"
+
+msgid "Tabs and Spaces"
+msgstr "Tabulations et espaces"
+
+msgid "Targets"
+msgstr "Cibles"
+
+msgid "Technical characters"
+msgstr "Caractères techniques"
+
+msgid "Templates"
+msgstr "Modèles"
+
+msgid "Terminal"
+msgstr "Terminal"
+
+msgid "Terminal:"
+msgstr "Terminal :"
+
+msgid "Text will be wrongly spaced."
+msgstr "Le texte sera espacé de façon incorrecte."
+
+msgid "Thai"
+msgstr "Thai"
+
+msgid "The '%s' project is already open."
+msgstr "Le projet '%s' est déjà ouvert."
+
+msgid "The Geany developer team"
+msgstr "L'équipe de développement de Geany"
+
+msgid ""
+"The amount of characters which are necessary to show the symbol "
+"autocompletion list"
+msgstr ""
+"Le nombre de caractères nécessaires pour afficher la liste de complétion "
+"automatique des symboles"
+
+msgid ""
+"The background color of characters after the given cursor position (see "
+"below) changed to the color set below, (this is recommended if you use "
+"proportional fonts)"
+msgstr ""
+"La couleur de fond des caractères après la position donnée (voir plus bas) "
+"est changée pour la couleur définie plus bas. (Ceci est recommandé si vous "
+"utilisez des polices proportionnelles)"
+
+msgid "The combination '%s' is already used for \"%s\"."
+msgstr "La combinaison '%s' est déjà utilisée pour \"%s\"."
+
+msgid ""
+"The command to execute when using \"Open with\". You can use %f and %d "
+"wildcards.\n"
+"%f will be replaced with the filename including full path\n"
+"%d will be replaced with the path name of the selected file without the "
+"filename"
+msgstr ""
+"La commande à lancer en utilisant \"Ouvrir à l'extérieur\". Vous pouvez "
+"utiliser les caractères de substitution %f et %d.\n"
+"%f sera remplacé par le nom du fichier en incluant son chemin complet\n"
+"%d sera remplacé par le nom du chemin vers le fichier sélectionné sans le "
+"nom du fichier"
+
+msgid "The editor font is not a monospaced font!"
+msgstr ""
+"La police de caractères de l'éditeur n'est pas une police à chasse fixe !"
+
+msgid "The executed custom command exited with an unsuccessful exit code."
+msgstr ""
+"La commande personnalisée s'est terminée avec un code de retour d'erreur."
+
+msgid ""
+"The executed custom command returned an error. Your selection was not "
+"changed. Error message: %s"
+msgstr ""
+"La commande personnalisée a retournée une erreur. Votre sélection n'a pas "
+"été modifiée. Message d'erreur : %s"
+
+msgid ""
+"The file \"%s\" could not be opened properly and has been truncated. This "
+"can occur if the file contains a NULL byte. Be aware that saving it can "
+"cause data loss.\n"
+"The file was set to read-only."
+msgstr ""
+"Le fichier \"%s\" n'a pas pu être ouvert correctement et a été tronqué. Cela "
+"peut se produire si le fichier contient un bit NULL. Soyez averti que son "
+"enregistrement peut causer une perte de données.\n"
+"Le fichier a été défini en lecture seule."
+
+msgid ""
+"The file \"%s\" does not look like a text file or the file encoding is not "
+"supported."
+msgstr ""
+"Le fichier \"%s\" ne ressemble pas à un fichier texte ou son encodage n'est "
+"pas supporté."
+
+msgid "The file \"%s\" is not valid %s."
+msgstr "Le fichier \"%s\" n'est pas valide %s."
+
+msgid ""
+"The file \"%s\" will be printed with the following command:\n"
+"\n"
+"%s"
+msgstr ""
+"Le fichier \"%s\" sera imprimé avec la commande suivante :\n"
+"\n"
+"%s"
+
+msgid "The file '%s' already exists. Do you want to overwrite it?"
+msgstr "Le fichier '%s' existe déjà. Voulez-vous l'écraser ?"
+
+msgid "The file '%s' is not saved."
+msgstr "Le fichier '%s' n'est pas enregistré."
+
+msgid ""
+"The file '%s' on the disk is more recent than\n"
+"the current buffer."
+msgstr ""
+"Le fichier '%s' sur le disque est plus récent que\n"
+"le tampon actuel."
+
+msgid "The following keyboard shortcuts are configurable:"
+msgstr "Les raccourcis clavier suivants peuvent être configurés :"
+
+msgid ""
+"The long line marker is a thin vertical line in the editor, it helps to mark "
+"long lines, or as a hint to break the line. Set this value to a value "
+"greater than 0 to specify the column where it should appear."
+msgstr ""
+"Le marqueur des longues lignes est une fine ligne verticale dans l'éditeur. "
+"Il aide à marquer les longues lignes, ou sert d'indice pour revenir à la "
+"ligne. Définissez une valeur supérieure à 0 pour spécifier la colonne où il "
+"devrait apparaître."
+
+msgid "The name of the developer"
+msgstr "Le nom du développeur"
+
+msgid "The path \"%s\" does not exist."
+msgstr "Le chemin \"%s\" est inexistant."
+
+msgid ""
+"The plugin \"%s\" is not binary compatible with this release of Geany - "
+"please recompile it."
+msgstr ""
+"Le plugin \"%s\" n'est pas compatible au niveau binaire avec cette version "
+"de Geany - Veuillez le recompiler."
+
+msgid "The specified project name is too long (max. %d characters)."
+msgstr "Le nom de projet spécifié est trop long (maximum %d caractères)."
+
+msgid "The specified project name is too short."
+msgstr "Le nom de projet spécifié est trop court."
+
+msgid "The width in chars of a single indent"
+msgstr "La largeur, en caractères, d'une indentation simple"
+
+msgid "This is Geany %s."
+msgstr "Voici Geany %s."
+
+msgid ""
+"This option disables the automatic detection of the file encoding when "
+"opening non-Unicode files and opens the file with the specified encoding "
+"(usually not needed)"
+msgstr ""
+"Cette option désactive la détection automatique de l'encodage lors de "
+"l'ouverture des fichiers non-Unicode et ouvre le fichier avec l'encodage "
+"spécifié (non requis habituellement)"
+
+msgid ""
+"This option disables the keybinding to popup the menu bar (default is F10). "
+"Disabling it can be useful if you use, for example, Midnight Commander "
+"within the VTE."
+msgstr ""
+"Cette option désactive le raccourci clavier utilisé pour afficher le menu "
+"(par défaut F10). Le désactiver peut être utile si vous utilisez, par "
+"exemple, Midnight Commander à l'intérieur du VTE."
+
+msgid "This plugin provides different actions related to saving of files."
+msgstr ""
+"Ce plugin fournit différentes actions relatives à l'enregistrement des "
+"fichiers."
+
+msgid "To_ggle All Additional Widgets"
+msgstr "Afficher/Cacher toutes les fenêtres _supplémentaires"
+
+msgid "Toggle All Additional Widgets"
+msgstr "Afficher/Cacher toutes les fenêtres supplémentaires"
+
+msgid "Toggle Case of Selection"
+msgstr "Modifier la casse de la sélection"
+
+msgid "Toggle Line breaking"
+msgstr "Basculer le retour à la ligne"
+
+msgid "Toggle Line wrapping"
+msgstr "Basculer le renvoi à la ligne"
+
+msgid "Toggle Messages Window"
+msgstr "Afficher/Cacher la fenêtre de messages"
+
+msgid "Toggle Sidebar"
+msgstr "Afficher/Cacher la barre latérale"
+
+msgid "Toggle current fold"
+msgstr "Basculer le pliage courant"
+
+msgid "Toggle line commentation"
+msgstr "Commenter/Décommenter la ligne"
+
+msgid "Toggle marker"
+msgstr "Ajouter/Supprimer un marqueur"
+
+msgid "Toggle plugin status"
+msgstr "Activer/Désactiver le plugin"
+
+msgid "Toggle the documents list on and off"
+msgstr "Affiche/Cache la liste des documents"
+
+msgid "Toggle the symbol list on and off"
+msgstr "Affiche/Cache la liste des symboles"
+
+msgid "Too many items selected!"
+msgstr "Trop d'éléments sélectionnés !"
+
+msgid "Toolbar"
+msgstr "Barre d'outils"
+
+msgid "Tools"
+msgstr "Outils"
+
+msgid "Top"
+msgstr "Haut"
+
+msgid "Translators"
+msgstr "Traducteurs"
+
+msgid "Turkish"
+msgstr "Turc"
+
+msgid "Type Selectors"
+msgstr "Sélecteurs de type"
+
+msgid ""
+"Type a defined short character sequence and complete it to a more complex "
+"string using a single keypress"
+msgstr ""
+"Entrez une courte séquence de caractères prédéfinie et complétez la pour "
+"obtenir une chaîne plus complexe en utilisant une seule touche"
+
+msgid "Type constructors"
+msgstr "Constructeurs de type"
+
+msgid "Type here what you want, use it as a notice/scratch board"
+msgstr ""
+"Écrivez ici ce que vous souhaitez, utilisez cela comme comme un tableau de "
+"notes"
+
+msgid "Type:"
+msgstr "Type :"
+
+msgid "Typedefs / Enums"
+msgstr "Typedefs / Enums"
+
+msgid "Types"
+msgstr "Types"
+
+msgid "U_ncomment Line(s)"
+msgstr "Décomme_nter la(les) ligne(s)"
+
+msgid "Uncomment line(s)"
+msgstr "Décommenter la(les) ligne(s)"
+
+msgid "Undo"
+msgstr "Annuler"
+
+msgid "Undo the last modification"
+msgstr "Annuler la dernière modification"
+
+msgid "Unfold all"
+msgstr "Tout déplier"
+
+msgid "Unicode"
+msgstr "Unicode"
+
+msgid "Unix (LF)"
+msgstr "Unix (LF)"
+
+msgid "Unknown filetype extension for \"%s\".\n"
+msgstr "Extension de fichier inconnue pour \"%s\".\n"
+
+msgid "Up"
+msgstr "Dossier parent"
+
+msgid ""
+"Usage: %s -g <Tag File> <File list>\n"
+"\n"
+msgstr ""
+"Utilisation : %s -g <Fichier de tags> <Liste de fichiers>\n"
+"\n"
+
+msgid ""
+"Use POSIX-like regular expressions. For detailed information about using "
+"regular expressions, please read the documentation."
+msgstr ""
+"Utiliser les expressions régulières de type POSIX. Pour des informations "
+"détaillées à propos de l'utilisation des expressions régulières, veuillez "
+"lire la documentation."
+
+msgid "Use Windows File Open/Save dialogs"
+msgstr ""
+"Utiliser la boite de dialogue Windows d'ouverture/sauvegarde des fichiers"
+
+msgid "Use _escape sequences"
+msgstr "Utiliser les séquences d'échapp_ement"
+
+msgid "Use an alternate configuration directory"
+msgstr "Utiliser un dossier de configuration alternatif"
+
+msgid "Use an external command for printing"
+msgstr "Utiliser une commande externe pour imprimer"
+
+msgid ""
+"Use current word under the cursor when opening the Find, Find in Files or "
+"Replace dialog and there is no selection"
+msgstr ""
+"Utilise le mot courant sous le curseur lors de l'ouverture de la boite de "
+"dialogue de recherche, recherche dans les fichiers, ou remplacement si aucun "
+"texte n'est sélectionné"
+
+msgid "Use fixed encoding when opening non-Unicode files"
+msgstr "Utiliser un encodage fixe lors de l'ouverture des fichiers non-Unicode"
+
+msgid "Use global settings"
+msgstr "Utiliser les préférences globales"
+
+msgid "Use indicators to show compile errors"
+msgstr "Utiliser les indicateurs d'erreurs de compilation"
+
+msgid "Use native GTK printing"
+msgstr "Utiliser l'impression GTK native"
+
+msgid "Use one tab per indent"
+msgstr "Utiliser une tabulation par indentation"
+
+msgid "Use project-based session files"
+msgstr "Utiliser des fichiers de session basés sur les projets"
+
+msgid ""
+"Use spaces if the total indent is less than the tab width, otherwise use both"
+msgstr ""
+"Utiliser des espaces si l'indentation totale est inférieure à la taille de "
+"la tabulation, sinon utiliser les deux"
+
+msgid "Use spaces when inserting indentation"
+msgstr "Utiliser des espaces pour l'indentation"
+
+msgid "Use the basename of the printed file"
+msgstr "Utiliser le nom court du fichier à imprimer"
+
+msgid "Use the current file's directory for Find in Files"
+msgstr ""
+"Utiliser le dossier du fichier courant pour la recherche dans les fichiers"
+
+msgid "Use the current word under the cursor for Find dialogs"
+msgstr "Utiliser le mot courant sous le curseur pour la recherche."
+
+msgid "Use the project's base directory"
+msgstr "Utiliser le répertoire de base du projet"
+
+msgid ""
+"Use this socket filename for communication with a running Geany instance"
+msgstr ""
+"Utiliser ce nom de fichier comme socket pour communiquer avec une instance "
+"de Geany en cours d'exécution"
+
+msgid "Variables"
+msgstr "Variables"
+
+msgid "Variables / Signals"
+msgstr "Variables / Signaux"
+
+msgid "Version number, which a new file initially has"
+msgstr "Numéro de version, qu'un nouveau fichier contient initialement"
+
+msgid "Vietnamese"
+msgstr "Vietnamien"
+
+msgid "View"
+msgstr "Affichage"
+
+msgid "Warning"
+msgstr "Avertissement"
+
+msgid "Warning: non-standard hard tab width: %d != 8!"
+msgstr "Avertissement : largeur de tabulation non standard : %d != 8 !"
+
+msgid "Western"
+msgstr "Occidental"
+
+msgid ""
+"When \"smart\" home is enabled, the HOME key will move the caret to the "
+"first non-blank character of the line, unless it is already there, it moves "
+"to the very beginning of the line. When this feature is disabled, the HOME "
+"key always moves the caret to the start of the current line, regardless of "
+"its current position."
+msgstr ""
+"Quand la touche home \"intelligente\" est activée, la touche HOME déplacera "
+"le curseur au premier caractère significatif de la ligne, à moins qu'il y "
+"soit déjà, auquel cas il sera déplacé au début de la ligne. Lorsque cette "
+"fonctionnalité est désactivée, la touche HOME déplace toujours le curseur au "
+"début de la ligne courante, peu importe sa position actuelle."
+
+msgid ""
+"When enabled, a project file is stored by default inside the project base "
+"directory when creating new projects instead of one directory above the base "
+"directory. You can still change the path of the project file in the New "
+"Project dialog."
+msgstr ""
+"Quand cette case est cochée, un fichier de projet est créé par défaut dans "
+"le dossier de base du projet à chaque création d'un nouveau projet, plutôt "
+"qu'à un niveau au dessus du dossier de projet. Vous pouvez toujours changer "
+"le chemin du projet dans la boite de dialogue Nouveau projet."
+
+msgid ""
+"Whether the virtual terminal emulation (VTE) should be loaded at startup, "
+"disable it if you do not need it"
+msgstr ""
+"Charger ou non l'émulateur virtuel de terminal (VTE) au lancement, "
+"désactivez le si vous n'en avez pas besoin"
+
+msgid ""
+"Whether to beep if an error occurred or when the compilation process has "
+"finished"
+msgstr ""
+"Émettre ou non un bip si une erreur s'est produite ou lorsque le processus "
+"de compilation est fini"
+
+msgid "Whether to blink the cursor"
+msgstr "Faire clignoter ou non le curseur"
+
+msgid ""
+"Whether to detect the indentation type from file contents when a file is "
+"opened"
+msgstr ""
+"Détecter ou non le type d'indentation depuis le contenu d'un fichier lors de "
+"son ouverture"
+
+msgid "Whether to enable folding the code"
+msgstr "Active ou non le pliage du code"
+
+msgid "Whether to execute \"cd $path\" when you switch between opened files"
+msgstr ""
+"Définit si l'on doit exécuter \"cd $path\" lorsque vous basculez entre les "
+"fichiers ouverts"
+
+msgid ""
+"Whether to place file tabs next to the current tab rather than at the edges "
+"of the notebook"
+msgstr ""
+"Placer l'onglet du fichier à côté de l'onglet actuel plutôt qu'à l'extrémité "
+"de la liste des onglets"
+
+msgid "Whether to scroll to the bottom if a key was pressed"
+msgstr "Définit si l'on doit défiler en bas lorsqu'une touche a été pressée"
+
+msgid "Whether to scroll to the bottom when output is generated"
+msgstr "Définit si l'on doit défiler en bas lorsqu'une sortie est générée."
+
+msgid "Whether to show the status bar at the bottom of the main window"
+msgstr "Montrer ou cacher la barre d'état au bas de la fenêtre principale"
+
+msgid "Whether to stop scrolling one page past the last line of a document"
+msgstr ""
+"Permet d'arrêter le défilement une page après la dernière ligne d'un document"
+
+msgid ""
+"Whether to store a project's session files and open them when re-opening the "
+"project"
+msgstr ""
+"Conserver ou non des fichiers de session d'un projet et les ouvrir lors de "
+"la réouverture du projet"
+
+msgid ""
+"Whether to use indicators (a squiggly underline) to highlight the lines "
+"where the compiler found a warning or an error"
+msgstr ""
+"Utilise ou non les indicateurs (un soulignage) pour mettre en avant les "
+"lignes ou le compilateur a trouvé un avertissement ou une erreur"
+
+msgid "Width:"
+msgstr "Largeur :"
+
+msgid "Win (CRLF)"
+msgstr "Win (CRLF)"
+
+msgid "Without encoding"
+msgstr "Sans encodage"
+
+msgid "Word Count"
+msgstr "Compteur de mots"
+
+msgid "Word part completion"
+msgstr "Complétion des parties de mots"
+
+msgid "Words:"
+msgstr "Mots :"
+
+msgid "Working directory"
+msgstr "Dossier de travail"
+
+msgid "Wrap search and find again?"
+msgstr "Recommencer la recherche ?"
+
+msgid ""
+"Wrap the line at the window border and continue it on the next line. Note: "
+"line wrapping has a high performance cost for large documents so should be "
+"disabled on slow machines."
+msgstr ""
+"Coupe la ligne au bord de la fenêtre et la continue sur la ligne suivante. "
+"Note : le renvoi automatique à la ligne a un coût élevé en performances pour "
+"les gros documents et devrait donc être désactivé sur les machines lentes."
+
+msgid "Write:"
+msgstr "Écriture :"
+
+msgid "XML document"
+msgstr "Document XML"
+
+msgid "XML tag autocompletion"
+msgstr "Complétion automatique des balises XML"
+
+msgid "Year:"
+msgstr "Année :"
+
+msgid ""
+"You can send the current selection to any of these commands and the output "
+"of the command replaces the current selection."
+msgstr ""
+"Vous pouvez envoyer la sélection courante vers une de ces commandes et la "
+"sortie de la commande remplacera la sélection."
+
+msgid "You have specified an invalid project filename."
+msgstr "Vous avez spécifié un nom de fichier de projet invalide."
+
+msgid ""
+"Your configuration directory has been successfully moved from \"%s\" to \"%s"
+"\"."
+msgstr ""
+"Votre dossier de configuration a été déplacé avec succès de \"%s\" vers \"%s"
+"\"."
+
+msgid ""
+"Your old configuration directory \"%s\" could not be moved to \"%s\" (%s). "
+"Please move manually the directory to the new location."
+msgstr ""
+"Votre ancien dossier de configuration \"%s\" n'a pu être déplacé vers \"%s"
+"\" (%s). Veuillez déplacer manuellement le dossier vers le nouvel "
+"emplacement."
+
+msgid "Zoom In"
+msgstr "Zoom avant"
+
+msgid "Zoom Out"
+msgstr "Zoom arrière"
+
+msgid "Zoom Reset"
+msgstr "Zoom normal"
+
+msgid "Zoom in the text"
+msgstr "Zoomer en avant sur le texte"
+
+msgid "Zoom out the text"
+msgstr "Zoomer en arrière"
+
+msgid "[FILES...]"
+msgstr "[FICHIERS...]"
+
+msgid "_Allow"
+msgstr "_Autoriser les deux"
+
+msgid "_Append Toolbar to the Menu"
+msgstr "_Ajouter la barre d'outils au menu"
+
+msgid "_Auto-indentation"
+msgstr "Indentation _automatique"
+
+msgid "_Build"
+msgstr "Const_ruire"
+
+msgid "_C++ Class"
+msgstr "Classe _C++"
+
+msgid "_Close"
+msgstr "_Fermer"
+
+msgid "_Collapse All"
+msgstr "Tout _replier"
+
+msgid "_Color Chooser"
+msgstr "_Sélecteur de couleur"
+
+msgid "_Color Schemes"
+msgstr "Jeux de _couleurs"
+
+msgid "_Commands"
+msgstr "_Commandes"
+
+msgid "_Comment Line(s)"
+msgstr "_Commenter la(les) ligne(s)"
+
+msgid "_Compile"
+msgstr "_Compiler"
+
+msgid "_Copy Current Line(s)"
+msgstr "_Copier le(s) ligne(s) courante(s)"
+
+msgid "_Custom Filetypes"
+msgstr "_Types de fichier personnalisés"
+
+msgid "_Cut Current Line(s)"
+msgstr "_Couper le(s) ligne(s) courante(s)"
+
+msgid "_Debug Messages"
+msgstr "_Messages de débogage"
+
+msgid "_Decrease Indent"
+msgstr "_Diminuer l'indentation"
+
+msgid "_Default"
+msgstr "Par _défaut"
+
+msgid "_Delete Current Line(s)"
+msgstr "_Effacer le(s) ligne(s) courante(s)"
+
+msgid "_Directory to save backup files in:"
+msgstr "_Dossier de sauvegarde des fichiers :"
+
+msgid "_Directory:"
+msgstr "_Dossier :"
+
+msgid "_Document"
+msgstr "_Document"
+
+msgid "_Don't save"
+msgstr "Ne pas enre_gistrer"
+
+msgid "_Duplicate Line or Selection"
+msgstr "_Dupliquer la ligne ou la sélection"
+
+msgid "_East European"
+msgstr "Européen de l'_est"
+
+msgid "_Edit"
+msgstr "Édit_er"
+
+msgid "_Enable"
+msgstr "_Valider"
+
+msgid "_Execute"
+msgstr "_Exécuter"
+
+msgid "_Expand All"
+msgstr "Tout dépli_er"
+
+msgid "_Export"
+msgstr "_Exporter"
+
+msgid "_Extended regular expressions"
+msgstr "Expressions régulières ét_endues"
+
+msgid "_File"
+msgstr "_Fichier"
+
+msgid "_Filetype to use for newly opened files:"
+msgstr ""
+"_Type de fichiers à utiliser lors de la création de nouveaux fichiers :"
+
+msgid "_Find All"
+msgstr "Tout _trouver"
+
+msgid "_Find in Files"
+msgstr "Rechercher dans les _fichiers"
+
+msgid "_Fold All"
+msgstr "Tout _plier"
+
+msgid "_Format"
+msgstr "_Format"
+
+msgid "_GTK+ Class"
+msgstr "Classe _GTK+"
+
+msgid "_Go to Line"
+msgstr "Aller à la li_gne"
+
+msgid "_Go to Next Marker"
+msgstr "Se _rendre au marqueur suivant"
+
+msgid "_Go to Previous Marker"
+msgstr "Se _rendre au marqueur précédent"
+
+msgid "_Grep regular expressions"
+msgstr "Expressions régulières de _Grep"
+
+msgid "_HTMLToggle"
+msgstr "Basculement _HTML"
+
+msgid "_Help"
+msgstr "A_ide"
+
+msgid "_Hide Message Window"
+msgstr "Cac_her la fenêtre de message"
+
+msgid "_Hide Toolbar"
+msgstr "Cac_her la barre d'outils"
+
+msgid "_Horizontally"
+msgstr "_Horizontalement"
+
+msgid "_Images Only"
+msgstr "_Images seulement"
+
+msgid "_In Document"
+msgstr "Dans le _document"
+
+msgid "_Increase Indent"
+msgstr "Augmenter l'_indentation"
+
+msgid "_Input Methods"
+msgstr "_Méthodes d'entrée"
+
+msgid "_Insert"
+msgstr "_Insérer"
+
+msgid "_Insert \"include <...>\""
+msgstr "_Insérer \"include <...>\""
+
+msgid "_Insert Alternative White Space"
+msgstr "_Insérer un espacement alternatif"
+
+msgid "_Insert Special HTML Characters"
+msgstr "_Insérer un caractère HTML spécial"
+
+msgid "_Invert search results"
+msgstr "_Inverser les résultats des recherches"
+
+msgid "_Keyboard Shortcuts"
+msgstr "_Raccourcis clavier"
+
+msgid "_Large Icons"
+msgstr "_Grosses icônes"
+
+msgid "_Line Wrapping"
+msgstr "Ren_voi à la ligne automatique"
+
+msgid "_Make"
+msgstr "_Make"
+
+msgid "_Make All"
+msgstr "_Make All"
+
+msgid "_Mark"
+msgstr "_Marquer"
+
+msgid "_Markup Languages"
+msgstr "Langages de _Balisage"
+
+msgid "_Middle Eastern"
+msgstr "_Moyen-Oriental"
+
+msgid "_More Options"
+msgstr "_Plus d'options"
+
+msgid "_New"
+msgstr "_Nouveau"
+
+msgid "_Next"
+msgstr "Suiva_nt"
+
+msgid "_Next Error"
+msgstr "Erreur suiva_nte"
+
+msgid "_Open"
+msgstr "_Ouvrir"
+
+msgid "_Open file in a new tab"
+msgstr "_Ouvrir le fichier dans un nouvel onglet"
+
+msgid "_Override"
+msgstr "Écras_er"
+
+msgid "_PHP Class"
+msgstr "Classe _PHP"
+
+msgid "_Plugin Manager"
+msgstr "Gestionnaire de _plugin"
+
+msgid "_Previous"
+msgstr "_Précédent"
+
+msgid "_Previous Error"
+msgstr "_Erreur précédente"
+
+msgid "_Print status message if files have been automatically saved"
+msgstr ""
+"_Afficher un message de statut si les fichiers ont été automatiquement "
+"sauvegardés"
+
+msgid "_Programming Languages"
+msgstr "Langages de _Programmation"
+
+msgid "_Project"
+msgstr "_Projet"
+
+msgid "_Recent Projects"
+msgstr "Projets _récents"
+
+msgid "_Recurse in subfolders"
+msgstr "Recherche _récursive dans les sous-dossiers"
+
+msgid "_Reflow Lines/Block"
+msgstr "_Reformater les lignes/blocs"
+
+msgid "_Reload"
+msgstr "_Recharger"
+
+msgid "_Reload Configuration"
+msgstr "_Mettre à jour la configuration"
+
+msgid "_Replace"
+msgstr "R_emplacer"
+
+msgid "_Replace Tabs by Spaces"
+msgstr "Remplacer les tabulati_ons par des espaces"
+
+msgid "_Restart Terminal"
+msgstr "_Relancer le terminal"
+
+msgid "_SE & SW Asian"
+msgstr "Asiatique du _SE & SO"
+
+msgid "_Scripting Languages"
+msgstr "Langages de _Script"
+
+msgid "_Search"
+msgstr "_Rechercher"
+
+msgid "_Search for:"
+msgstr "Re_chercher :"
+
+msgid "_Select Current Line(s)"
+msgstr "_Sélectionner la(les) ligne(s) courante(s)"
+
+msgid "_Select Current Paragraph"
+msgstr "_Sélectionner le paragraphe courant"
+
+msgid "_Send Selection to"
+msgstr "Envoyer la _sélection vers"
+
+msgid "_Send Selection to Terminal"
+msgstr "Envoyer la _sélection vers le terminal"
+
+msgid "_Set Build Commands"
+msgstr "Définir les commande_s de construction"
+
+msgid "_Set Build Menu Commands"
+msgstr "Définir les commande_s de construction"
+
+msgid "_Set Custom Date Format"
+msgstr "Définir le format de date per_sonnalisé"
+
+msgid "_Set Path From Document"
+msgstr "Définir le chemin depui_s le document"
+
+msgid "_Small Icons"
+msgstr "Petite_s icônes"
+
+msgid "_Smart Line Indent"
+msgstr "Indentation intelli_gente de la ligne"
+
+msgid "_Spaces"
+msgstr "E_spaces"
+
+msgid "_Split Window"
+msgstr "_Diviser la fenêtre"
+
+msgid "_Strip Trailing Spaces"
+msgstr "Enlever les e_spaces de fin"
+
+msgid "_Tabs"
+msgstr "_Tabulations"
+
+msgid "_Text Only"
+msgstr "_Texte seulement"
+
+msgid "_Toggle Line Commentation"
+msgstr "Commen_ter/Décommenter la ligne"
+
+msgid "_Toolbar Preferences"
+msgstr "Préférences de la barre d'ou_tils"
+
+msgid "_Tools"
+msgstr "_Outils"
+
+msgid "_Transpose Current Line"
+msgstr "In_tervertir la ligne courante"
+
+msgid "_Unfold All"
+msgstr "Tout _déplier"
+
+msgid "_Unicode"
+msgstr "_Unicode"
+
+msgid "_Unsplit"
+msgstr "_Annuler la division"
+
+msgid "_Use Custom Date Format"
+msgstr "_Utiliser le format de date personnalisé"
+
+msgid "_Use current zoom level"
+msgstr "_Utiliser le niveau de zoom courant"
+
+msgid "_Use regular expressions"
+msgstr "_Utiliser des expressions régulières"
+
+msgid "_Vertically"
+msgstr "_Verticalement"
+
+msgid "_Very Small Icons"
+msgstr "T_rès petites icônes"
+
+msgid "_View"
+msgstr "_Affichage"
+
+msgid "_Website"
+msgstr "Site _Web"
+
+msgid "_West European"
+msgstr "Européen de l'_ouest"
+
+msgid "_Word Count"
+msgstr "_Compteur de mots"
+
+msgid "_Write Unicode BOM"
+msgstr "Écrire le _BOM Unicode"
+
+msgid "dd.mm.yyyy"
+msgstr "jj.mm.aaaa"
+
+msgid "dd.mm.yyyy hh:mm:ss"
+msgstr "jj.mm.aaaa hh:mm:ss"
+
+msgid "developer"
+msgstr "développeur"
+
+msgid "email address of the developer"
+msgstr "adresse e-mail du développeur"
+
+msgid "encoding: %s %s"
+msgstr "encodage : %s %s"
+
+msgid "failed to substitute %%p, no project active"
+msgstr "impossible de substituer %%p, aucun projet actif"
+
+msgid "filetype: %s"
+msgstr "type de fichier : %s"
+
+msgid "invisible"
+msgstr "invisible"
+
+msgid "line: %d / %d\t col: %d\t sel: %d\t "
+msgstr "ligne: %d / %d\t col: %d\t sel: %d\t "
+
+msgid "maintainer"
+msgstr "mainteneur"
+
+msgid "mm.dd.yyyy"
+msgstr "mm.jj.aaaa"
+
+msgid "mm.dd.yyyy hh:mm:ss"
+msgstr "mm.jj.aaaa hh:mm:ss"
+
+msgid "mode: %s"
+msgstr "mode : %s"
+
+msgid "projects"
+msgstr "projets"
+
+msgid "scope: %s"
+msgstr "portée : %s"
+
+msgid "seconds"
+msgstr "secondes"
+
+msgid "selection"
+msgstr "sélection"
+
+msgid "translation maintainer"
+msgstr "mainteneur des traductions"
+
+msgid "unknown"
+msgstr "inconnu"
+
+msgid "untitled"
+msgstr "sans titre"
+
+msgid "whole document"
+msgstr "document entier"
+
+msgid "yyyy/mm/dd"
+msgstr "aaaa/mm/jj"
+
+msgid "yyyy/mm/dd hh:mm:ss"
+msgstr "aaaa/mm/jj hh:mm:ss"
