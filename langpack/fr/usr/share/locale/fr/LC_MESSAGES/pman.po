@@ -8,63 +8,66 @@ msgstr ""
 "Project-Id-Version: pman VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-10-07 18:23+0200\n"
-"PO-Revision-Date: 2014-10-07 18:23+0200\n"
-"Last-Translator: root <root@localhost>\n"
+"PO-Revision-Date: 2014-10-09 22:57+0100\n"
+"Last-Translator: dekani <dekani1500@gmail.com>\n"
 "Language-Team: French\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 1.5.4\n"
 
 #: pman.sh:87 pman.sh:115
 msgid "Wait a moment ..."
-msgstr ""
+msgstr "Veuillez patientez..."
 
 #: pman.sh:109 pman.sh:115
 msgid "Processing..."
-msgstr ""
+msgstr "Traitement en cours..."
 
 #: pman.sh:164
 msgid "Puppy Help"
-msgstr ""
+msgstr "Aide Puppy/Toutou"
 
 #: pman.sh:165
 msgid "Look up the Puppy help page."
-msgstr ""
+msgstr "Rechercher la page d'aide Puppy/Toutou."
 
 #: pman.sh:166
 msgid "Puppy help"
-msgstr ""
+msgstr "Aide Puppy/Toutou"
 
 #: pman.sh:182
 msgid "First run info."
-msgstr ""
+msgstr "Info de premier démarrage."
 
 #: pman.sh:183
 msgid "Look up the welcome information."
-msgstr ""
+msgstr "Rechercher les informations de bienvenue."
 
 #: pman.sh:184
 msgid "Welcome info."
-msgstr ""
+msgstr "Info de bienvenue."
 
 #: pman.sh:195
 msgid "Search manuals"
-msgstr ""
+msgstr "Chercher les manuels"
 
 #: pman.sh:196
 msgid "Input or select a keyword."
-msgstr ""
+msgstr "Entrer ou sélectionner un mot-clef."
 
 #: pman.sh:198
 msgid "Type an application or command name here, or choose from the pulldown."
 msgstr ""
+"Saisir le nom d'une application ou d'une commande ici, ou choisir à partir "
+"de la liste déroulante."
 
 #: pman.sh:200
 msgid "Start search"
-msgstr ""
+msgstr "Démarrer la recherche"
 
 #: pman.sh:207
 msgid "Quit"
-msgstr ""
+msgstr "Quitter"
