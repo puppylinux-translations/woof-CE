@@ -1,1 +1,1 @@
-a4562d59dfe05058099aeef5070cacc5  /mnt/home/new/smartgit-6.5.3/smartgit-6.5.3_20141227_310.sfs
+086f0762d13a70ef344a0358bf0430a1  /mnt/home/new/smartgit-6.5.3/smartgit-6.5.3_20141227_310.sfs
